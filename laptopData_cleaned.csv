@@ -1,4 +1,4 @@
-Company,Typename,Inches,Cpu_brand,Cpu_family,Cpu_model,Cpu_frequency_ghz,Screen_type,Resolution_x,Resolution_y,Ram_gb,Primary_storage_gb,Primary_storage_type,Secondary_storage_gb,Secondary_storage_type,Gpu_brand,Gpu_model,Opsys,Weight_kg,Price_$
+Company,Typename,Inches,Cpu_brand,Cpu_family,Cpu_model,Cpu_frequency_ghz,Screen_type,Resolution_x,Resolution_y,Ram_gb,Primary_storage_gb,Primary_storage_type,Secondary_storage_gb,Secondary_storage_type,Gpu_brand,Gpu_model,Opsys,Weight_kg,Price_rupee
 Acer,Notebook,15.6,Intel,Core i5,7200U,2.5,Full HD,1920,1080,12.0,128.0,SSD,1024.0,HDD,Nvidia,GeForce GTX 950M,Windows 10,2.4,53759.52
 Acer,Notebook,14.0,Intel,Core i3,7100U,2.4,IPS Panel Full HD,1920,1080,4.0,128.0,SSD,,,Intel,HD Graphics 620,Windows 10,1.8,33886.08
 Acer,Notebook,15.6,Intel,Core i3,7100U,2.4,IPS Panel Full HD / Touchscreen,1920,1080,6.0,1024.0,HDD,,,Intel,HD Graphics 620,Windows 10,2.1,25521.12
