@@ -1,0 +1,68 @@
+## Laptop Dataset Cleaning Process
+
+The following steps were performed to transform the raw dataset into a machine-learning-ready dataset:
+
+1. Inspected the dataset using methods such as `info()`, `shape()`, `isnull()`, and `duplicated()` to understand the structure and identify data quality issues.
+
+2. Removed duplicate records to ensure data consistency.
+
+3. Removed unnecessary columns, including automatically generated columns such as `Unnamed: 0`.
+
+4. Standardized column names to make them more descriptive and easier to understand.
+
+5. Cleaned and converted numerical features:
+
+   * Converted RAM values into a numeric `ram_gb` column.
+   * Converted laptop weight into a numeric `weight_kg` column.
+   * Converted screen size into a numeric `inches` column.
+   * Converted price values into a numeric format.
+
+6. Processed storage information:
+
+   * Split the original `memory` column into primary and secondary storage components.
+   * Extracted storage capacity and storage type separately.
+   * Converted all storage capacities to GB for consistency.
+   * Created:
+
+     * `primary_storage_gb`
+     * `primary_storage_type`
+     * `secondary_storage_gb`
+     * `secondary_storage_type`
+
+7. Processed CPU information:
+
+   * Extracted `cpu_brand`.
+   * Extracted `cpu_family`.
+   * Extracted `cpu_model`.
+
+8. Processed GPU information:
+
+   * Extracted `gpu_brand`.
+   * Extracted `gpu_model`.
+
+9. Processed display information:
+
+   * Split screen resolution into:
+
+     * `resolution_x`
+     * `resolution_y`
+   * Cleaned and standardized screen type information.
+
+10. Handled missing values:
+
+    * Removed or corrected invalid records.
+    * Filled appropriate missing values where necessary.
+    * Retained meaningful missing values when they represented the absence of a feature (e.g., no secondary storage).
+
+11. Performed final validation:
+
+    * Verified data types.
+    * Checked remaining missing values.
+    * Ensured the dataset was ready for exploratory data analysis and machine learning tasks.
+
+### Final Result
+
+* Original dataset: 1303 rows, 12 columns
+* Cleaned dataset: 1271 rows, 20 columns
+* Features transformed into structured, machine-learning-friendly columns
+* Majority of missing values removed while preserving meaningful information
