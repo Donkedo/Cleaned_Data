@@ -1,0 +1,1021 @@
+mobile_name,price,screen_size,screen_resolution,screen_frequency_Hz,screen_speciality,ram_gb,inbuilt_storage_gb,memory_card_supported,extra_storage_GB,battery_capacity_mAh,charging_capacity_Watt,charging_type,5G_support,4G_support,3G_support,VoLTE_support,Wi-Fi_support,NFC_support,ir_blaster_support,camera1_mp,camera2_mp,camera3_mp,processor_name,processing_core,clock_speed_GHz,os_name,os_version,rating,specs_score
+OPPO Reno 11,29990,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,unknown,unknown,4800.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,32.0,8.0,Dimensity 8200,8.0,3.1,Android,14.0,4.7,86.0
+Poco X6 Pro 5G,19999,6.67,1220 x 2712,120.0, Punch Hole,12.0,256.0,unknown,unknown,5500.0,90.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Dimensity 8300 Ultra,8.0,3.35,Android,14.0,4.5,84.0
+Xiaomi Redmi Note 13 Pro Plus,31999,6.67,1220 x 2712,120.0, Punch Hole,8.0,256.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,8.0,2.0,Dimensity 7200 Ultra,8.0,2.8,Android,13.0,4.35,87.0
+OPPO Reno 11 Pro,40990,6.74,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,32.0,8.0,Dimensity 8200,8.0,3.1,Android,14.0,4.75,88.0
+Xiaomi Redmi Note 13 Pro Max 5G,33999,6.67,1220 x 2712,144.0, Punch Hole,12.0,256.0,no,unknown,5200.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,13.0,8.0,Snapdragon 7 Gen1,8.0,2.4,Android,13.0,4.0,87.0
+Xiaomi Redmi Note 13 Pro 5G,25999,6.67,1220 x 2712,120.0, Punch Hole,8.0,128.0,unknown,unknown,5100.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,8.0,2.0,Snapdragon 7s Gen 2,8.0,2.4,Android,13.0,4.1,84.0
+Motorola Moto G34 5G,10999,6.5,1080 x 2400,120.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,14.0,4.65,75.0
+Xiaomi Redmi Note 13 5G,17999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Dimensity 6080,8.0,2.4,Android,12.0,4.5,81.0
+Motorola Edge 40 Neo,22999,6.55,1080 x 2400,144.0, Punch Hole,8.0,128.0,no,unknown,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,0.0,Dimensity 7030,8.0,2.5,Android,13.0,4.5,84.0
+Poco X6 5G,15999,6.67,1220 x 2712,120.0, Punch Hole,8.0,128.0,unknown,unknown,5100.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Snapdragon 7s Gen 2,8.0,2.4,Android,13.0,4.1,82.0
+OnePlus 12R,39999,6.78,1264 x 2780,120.0, Punch Hole,12.0,256.0,unknown,unknown,5500.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,14.0,4.75,86.0
+Vivo Y28 5G,13999,6.56,720 x 1612,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.35,75.0
+Motorola Moto G54 5G,13999,6.5,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,6000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,0.0,Dimensity 7020,8.0,2.2,Android,13.0,4.3,84.0
+Xiaomi Redmi 13C 5G,10999,6.74,720 x 1600,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.5,74.0
+OnePlus 12 Pro,69999,6.73,1440 x 3412,144.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,50.0,48.0,Snapdragon  8 Gen3,8.0,3.3,Android,13.0,4.3,
+iQOO Neo 9 Pro,35990,6.78,1260 x 2800,144.0, Punch Hole,12.0,256.0,unknown,unknown,5160.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,14.0,4.1,86.0
+Vivo V29,31300,6.78,1260 x 2800,120.0, Punch Hole,8.0,128.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 778G,8.0,2.4,Android,13.0,4.75,85.0
+Samsung Galaxy S24 Ultra,119990,6.8,1200 x 2860,144.0, Punch Hole,12.0,256.0,no,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,13.0,4.35,
+Vivo X100 5G,63999,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Dimensity 9300,8.0,3.25,Android,14.0,4.4,
+OnePlus Nord CE 3 5G,24850,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon  782G,8.0,2.7,Android,13.0,4.7,84.0
+Motorola Moto G54 5G (12GB RAM +256GB),15999,6.5,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,1024.0,6000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,0.0,Dimensity 7020,8.0,2.2,Android,13.0,4.5,85.0
+Samsung Galaxy A15 5G,19499,6.5,1080 x 2340,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,5.0,2.0,Dimensity 6100 Plus,8.0,2.2,Android,14.0,4.75,81.0
+iQOO Neo 9,26990,6.78,1260 x 2800,144.0, Punch Hole,12.0,256.0,unknown,unknown,5160.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,14.0,4.5,84.0
+Vivo V27,24749,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity 7200,8.0,2.8,Android,13.0,4.1,85.0
+OnePlus Nord CE 3 Lite 5G,19335,6.72,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Snapdragon 695 5G,8.0,2.2,Android,13.0,4.25,85.0
+Motorola Edge 40 5G,26999,6.55,1080 x 2400,144.0,,8.0,256.0,unknown,unknown,4400.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,0.0,Dimensity 8020,8.0,2.6,Android,13.0,4.6,87.0
+Xiaomi Redmi 12 5G,13079,6.79,1080 x 2460,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.55,75.0
+Realme 11 Pro Plus,25999,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,no,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,8.0,2.0,Dimensity 7050,8.0,2.6,Android,13.0,4.7,87.0
+Infinix Note 30 5G (8GB RAM + 256GB),14999,6.78,1080 x 2460,120.0, Punch Hole,8.0,256.0,yes,2048.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.25,87.0
+Vivo T2 Pro 5G,23999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 7200,8.0,2.8,Android,13.0,4.4,81.0
+Poco X5 Pro,16999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Snapdragon 778G,8.0,2.4,Android,12.0,4.05,80.0
+Vivo T2x 5G (6GB RAM + 128GB),12999,6.58,1080 x 2408,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.4,78.0
+Realme GT 5 Pro,38990,6.78,1264 x 2780,144.0, Punch Hole,12.0,256.0,no,unknown,5400.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,8.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.45,89.0
+Xiaomi Redmi Note 13 5G (8GB RAM + 256GB),19999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Dimensity 6080,8.0,2.4,Android,12.0,4.55,84.0
+Xiaomi Redmi Note 14 Pro Max,29990,6.78,1080 x 2460,144.0, Punch Hole,8.0,128.0,yes,1024.0,,,,yes,yes,yes,yes,yes,no,yes,200.0,0.0,0.0,Dimensity 6080,8.0,2.4,Android,14.0,4.7,88.0
+Realme C67 5G,12927,6.72,1080 x 2400,120.0, Punch Hole,4.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.15,75.0
+iQOO 12 5G,52999,6.78,1260 x 2800,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.3,
+Samsung Galaxy F54,24999,6.7,1080 x 2408,120.0, Punch Hole,8.0,256.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,8.0,2.0,Exynos 1380,8.0,2.4,Android,13.0,4.05,89.0
+Samsung Galaxy S23 Ultra 5G,96930,6.8,1440 x 3088,120.0, Punch Hole,12.0,256.0,no,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,0.0,0.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.05,
+OnePlus Nord 3 5G,29633,6.74,1240 x 2772,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Dimensity 9000,8.0,3.05,Android,13.0,4.15,85.0
+Motorola Edge 40 Neo (12GB RAM + 256GB),24999,6.55,1080 x 2400,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,0.0,Dimensity 7030,8.0,2.5,Android,13.0,4.0,85.0
+Xiaomi Redmi Note 13 Pro Plus (12GB RAM + 512GB),35999,6.67,1220 x 2712,120.0, Punch Hole,12.0,512.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,8.0,2.0,Dimensity 7200 Ultra,8.0,2.8,Android,13.0,4.55,88.0
+Samsung Galaxy M34 5G,16185,6.5,1080 x 2340,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,13.0,3.95,82.0
+Vivo V30 Pro,42990,6.79,1260 x 2800,144.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,100.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,12.0,8.0,Dimensity  9000,8.0,3.05,Android,14.0,4.55,85.0
+OPPO Reno 10,32999,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,yes,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,32.0,8.0,Dimensity 7050,8.0,2.6,Android,13.0,4.7,88.0
+Samsung Galaxy A55 5G,39990,6.5,1080 x 2340,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,5.0,Exynos 1480,8.0,,Android,14.0,4.35,79.0
+Realme 11 Pro,21999,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.75,83.0
+Samsung Galaxy S21 FE 5G,30696,6.4,1080 x 2340,120.0, Punch Hole,8.0,128.0,no,unknown,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.0,12.0,8.0,Exynos  2100,8.0,2.9,Android,11.0,4.7,87.0
+Motorola Moto G84 5G,18999,6.55,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,unknown,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.15,86.0
+Xiaomi Redmi 13C 5G (8GB RAM + 256GB),14499,6.74,720 x 1600,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.65,79.0
+OPPO A59 5G,13999,6.56,720 x 1612,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.4,71.0
+OnePlus 11R 5G,39997,6.74,1240 x 2772,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.4,85.0
+POCO X5 5G,12999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.2,81.0
+Xiaomi Redmi Note 13 Pro Plus (12GB RAM + 256GB),33999,6.67,1220 x 2712,120.0, Punch Hole,12.0,256.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,8.0,2.0,Dimensity 7200 Ultra,8.0,2.8,Android,13.0,4.75,88.0
+Motorola Moto G32 (8GB RAM + 128GB),9999,6.55,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.75,80.0
+iQOO Z7 Pro 5G,23999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 7200,8.0,2.8,Android,13.0,4.55,80.0
+Samsung Galaxy A25 5G,26999,6.5,1080 x 2340,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,14.0,4.05,84.0
+Motorola Moto G82 (8GB RAM + 128GB),14999,6.6,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.3,86.0
+Apple iPhone 15,72990,6.1,1179 x 2556,, Dynamic Island,6.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic  A16,6.0,3.46,iOS,17.0,4.65,83.0
+Samsung Galaxy S25 Ultra,124990,6.83,1800 x 3440,144.0, Punch Hole,12.0,256.0,no,unknown,5100.0,65.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,0.0,0.0,Snapdragon 8 Gen3,8.0,,Android,14.0,4.15,86.0
+Realme 11x 5G,14999,6.72,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.0,79.0
+Xiaomi Redmi 12 5G (8GB RAM + 256GB),15235,6.79,1080 x 2460,90.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.6,80.0
+Realme 12 Pro,24990,6.7,1080 x 2400,144.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,13.0,2.0,Snapdragon 7s Gen2,8.0,,Android,14.0,4.4,78.0
+Vivo V29e,26999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,0.0,Snapdragon  695,8.0,2.2,Android,13.0,4.6,85.0
+OnePlus 12,59999,6.82,1440 x 3168,120.0, Punch Hole,12.0,256.0,no,unknown,5400.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,48.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.45,
+Apple iPhone 14,59999,6.1,1170 x 2532,, Small Notch,6.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,16.0,4.65,80.0
+Vivo X100 Pro 5G,89999,6.78,1260 x 2800,120.0, Punch Hole,16.0,256.0,no,unknown,5400.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Dimensity 9300,8.0,3.25,Android,14.0,4.65,
+Xiaomi Redmi Note 12 Pro 5G,19649,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.75,79.0
+Poco M6 Pro 5G,10999,6.79,1080 x 2460,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.75,74.0
+Vivo Y200 5G,21999,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,2048.0,4800.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Snapdragon 4 Gen1,8.0,2.0,Android,13.0,4.05,81.0
+Xiaomi Redmi 12 5G (6GB RAM + 128GB),13499,6.79,1080 x 2460,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.75,77.0
+iQOO Z7s 5G,15999,6.38,1080 x 2388,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.7,80.0
+Nokia 7610 5G,52990,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,13.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.2,
+OnePlus Nord CE 3 Lite 5G (8GB RAM + 256GB),21288,6.72,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Snapdragon 695 5G,8.0,2.2,Android,13.0,4.5,86.0
+OnePlus Ace 3,30999,6.78,1264 x 2780,120.0, Punch Hole,12.0,256.0,unknown,unknown,5500.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,14.0,4.6,86.0
+Infinix Hot 40 Pro,12990,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,2.0,0.08,Helio G99,8.0,2.2,Android,13.0,4.45,86.0
+Vivo T2x 5G,11999,6.58,1080 x 2408,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.3,75.0
+iQOO Neo 7 5G,24999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,2.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.35,82.0
+Apple iPhone 13,51499,6.1,1170 x 2532,, Small Notch,4.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,15.0,4.35,78.0
+Vivo X100 Pro Plus,99990,6.78,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,5400.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.65,
+Vivo T2 5G,16999,6.38,1080 x 2400,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.75,79.0
+Samsung Galaxy M14 (6GB RAM + 128GB),13200,6.6,1080 x 2408,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Exynos 1330,8.0,2.4,Android,13.0,4.15,79.0
+Motorola Moto G24 5G,11999,6.58,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 1080,8.0,2.6,Android,14.0,4.7,82.0
+Oppo Find X6 Pro,71990,6.82,1440 x 3168,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.45,
+OPPO Reno 10 Pro,37999,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,32.0,8.0,Snapdragon 778G,8.0,2.4,Android,13.0,4.65,87.0
+Xiaomi Redmi Note 13 5G (12GB RAM + 256GB),21999,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Dimensity 6080,8.0,2.4,Android,12.0,4.7,85.0
+POCO X5 5G (8GB RAM + 256GB),13999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.4,84.0
+Xiaomi Redmi Note 15 Pro,24990,6.74,1080 x 2400,165.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,2.0,Dimensity 8020,8.0,,Android,14.0,4.65,76.0
+Tecno Pop 8,6499,6.56,720 x 1612,90.0, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,12.0,0.0,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.05,65.0
+Samsung Galaxy A74 5G,42999,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon 7 Gen1,8.0,2.4,Android,12.0,4.55,
+OPPO F23,19999,6.72,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon  695,8.0,2.2,Android,13.0,4.6,84.0
+iQOO 12 Pro,64990,6.78,1440 x 3200,144.0, Punch Hole,16.0,256.0,unknown,unknown,5100.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.1,
+itel A70 4G (4GB RAM + 256GB),7299,6.6,720 x 1612,, Water Drop Notch,4.0,256.0,yes,2048.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Unisoc T603,8.0,,Android,13.0,4.6,61.0
+Realme Narzo 60 5G,15999,6.43,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.25,82.0
+Motorola Moto G73,16999,6.5,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,0.0,Dimensity 930,8.0,2.2,Android,13.0,4.05,84.0
+Samsung Galaxy S23 5G,64999,6.1,1080 x 2340,120.0, Punch Hole,8.0,128.0,unknown,unknown,3900.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.2,88.0
+Samsung Galaxy S22 5G,49999,6.1,1080 x 2340,120.0, Punch Hole,8.0,128.0,unknown,unknown,3700.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.65,86.0
+Realme C67 5G (6GB RAM + 128GB),13945,6.72,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.15,78.0
+Nubia Z60 Ultra,52990,6.8,1116 x 2480,120.0,,8.0,256.0,unknown,unknown,6000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.6,89.0
+Infinix Zero 30 5G (12GB RAM + 256GB),23999,6.78,1080 x 2400,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,13.0,2.0,Dimensity 8020,8.0,2.6,Android,13.0,4.3,88.0
+Vivo Y28 5G (8GB RAM + 128GB),16999,6.56,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.6,79.0
+Vivo V29 Pro,39990,6.78,1260 x 2800,120.0, Punch Hole,8.0,256.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,12.0,8.0,Dimensity  8200,8.0,3.1,Android,13.0,4.4,84.0
+Xiaomi Redmi K70 Pro,38990,6.67,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,12.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.6,87.0
+OnePlus Nord CE 4 Lite 5G,20990,6.74,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Snapdragon 7 Gen1,8.0,2.4,Android,14.0,4.7,85.0
+Apple iPhone 15 Pro Max,156900,6.7,1290 x 2796,120.0, Dynamic Island,8.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17 Pro,6.0,3.78,iOS,17.0,4.25,89.0
+Tecno Spark 20 Pro,12999,6.78,1080 x 2460,120.0, Punch Hole,8.0,256.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,0.08,0.0,Helio G99,8.0,2.2,Android,13.0,4.35,76.0
+Realme 12,14990,6.67,1080 x 2408,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 8050,8.0,3.0,Android,14.0,4.4,81.0
+Samsung Galaxy S20 FE 5G,29999,6.5,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,8.0,Snapdragon 865,8.0,2.84,Android,10.0,4.35,88.0
+Xiaomi Redmi 13C 5G (6GB RAM + 128GB),12499,6.74,720 x 1600,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.0,76.0
+Samsung Galaxy A54 5G,33990,6.4,1080 x 2340,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,5.0,Exynos 1380,8.0,2.4,Android,13.0,4.55,88.0
+Poco C55,6499,6.71,720 x 1650,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.55,71.0
+Samsung Galaxy S23 FE 5G,50500,6.4,1080 x 2340,120.0, Punch Hole,8.0,128.0,no,unknown,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,8.0,Exynos 2200,8.0,2.8,Android,13.0,4.55,85.0
+OnePlus Nord 3 5G (16GB RAM + 256GB),33999,6.74,1240 x 2772,120.0, Punch Hole,16.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Dimensity 9000,8.0,3.05,Android,13.0,4.7,87.0
+Realme 11 5G (8GB RAM + 256GB),19450,6.72,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.65,84.0
+Infinix GT 10 Pro,21999,6.67,1080 x 2460,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Dimensity  8050,8.0,3.0,Android,13.0,4.6,88.0
+Poco F5,29999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.75,84.0
+Poco M6 Pro 5G (6GB RAM + 128GB),11999,6.79,1080 x 2460,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.6,77.0
+Realme C53,9499,6.74,1080 x 2400,90.0, Water Drop Notch,4.0,128.0,yes,2048.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Tiger T612,8.0,1.82,Android,13.0,4.55,75.0
+Vivo Y78 Plus,17990,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.55,74.0
+Lava Storm 5G,13499,6.78,2400 x 1200,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.65,81.0
+Lava Storm 5G,13499,6.78,2400 x 1200,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.65,81.0
+Vivo V28,28990,6.7,1080 x 2400,120.0, Water Drop Notch,8.0,256.0,yes,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,13.0,2.0,Snapdragon 6 Gen 1,8.0,2.2,Android,13.0,4.4,84.0
+Vivo Y28 5G (6GB RAM + 128GB),15499,6.56,720 x 1612,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.05,77.0
+Realme 11 Pro Plus (12GB RAM + 256GB),29999,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,no,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,8.0,2.0,Dimensity 7050,8.0,2.6,Android,13.0,4.45,89.0
+Samsung Galaxy A34 5G,25499,6.6,1080 x 2340,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,8.0,5.0,Dimensity 1080,8.0,2.6,Android,13.0,4.2,83.0
+OnePlus Nord CE 3 (12GB RAM + 256GB),27999,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,yes,1024.0,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon  782G,8.0,2.7,Android,13.0,4.3,85.0
+iQOO Neo 7 Pro,32999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.55,83.0
+Realme 12 Pro Plus,35990,6.73,1080 x 2412,120.0, Punch Hole,8.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,no,no,200.0,8.0,2.0,Snapdragon 7s Gen2,8.0,,Android,14.0,4.05,79.0
+Xiaomi Redmi Note 13 Pro 5G (12GB RAM + 256GB),29999,6.67,1220 x 2712,120.0, Punch Hole,12.0,256.0,unknown,unknown,5100.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,8.0,2.0,Snapdragon 7s Gen 2,8.0,2.4,Android,13.0,4.5,86.0
+Xiaomi Redmi Note 13 Pro 5G (8GB RAM + 256GB),27999,6.67,1220 x 2712,120.0, Punch Hole,8.0,256.0,unknown,unknown,5100.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,8.0,2.0,Snapdragon 7s Gen 2,8.0,2.4,Android,13.0,4.7,85.0
+Vivo X100 5G (16GB RAM + 512GB),69999,6.78,1260 x 2800,120.0, Punch Hole,16.0,256.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Dimensity 9300,8.0,3.25,Android,14.0,4.7,
+OnePlus Nord CE 2 Lite 5G,17744,6.59,1080 x 2412,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.0,81.0
+Xiaomi Redmi Note 12 5G,15499,6.67,1080 x 2400,120.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,8.0,2.0,Snapdragon 4 Gen 1,8.0,2.0,Android,12.0,3.9,77.0
+Vivo T2 Pro 5G (8GB RAM + 256GB),24999,6.78,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 7200,8.0,2.8,Android,13.0,4.5,82.0
+Vivo T2x 5G (8GB RAM + 128GB),14999,6.58,1080 x 2408,, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.2,80.0
+Realme C55 (8GB RAM + 128GB),11499,6.72,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G88,8.0,2.0,Android,13.0,4.65,79.0
+Samsung Galaxy S21 FE (Snapdragon),39699,6.4,1080 x 2340,120.0, Punch Hole,8.0,256.0,no,unknown,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.0,12.0,8.0,Snapdragon 888,8.0,2.84,Android,11.0,4.35,88.0
+Samsung Galaxy A14 5G,14290,6.6,1080 x 2408,90.0, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Exynos 1330,8.0,2.4,Android,13.0,4.05,75.0
+itel S23 Plus,13999,6.78,1080 x 2400,, Punch Hole,8.0,256.0,unknown,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.08,0.0,Tiger  T616,8.0,2.0,Android,13.0,4.25,78.0
+Poco M6 5G,10499,6.74,720 x 1650,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,0.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.75,73.0
+Samsung Galaxy M14,12317,6.6,1080 x 2408,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Exynos 1330,8.0,2.4,Android,13.0,4.7,77.0
+Oppo Find X7 Ultra,69990,6.82,1440 x 3168,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.0,
+itel P55 5G (6GB RAM + 128GB),9999,6.6,1600 x 720,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.0,75.0
+Honor 90 5G,29490,6.7,1200 x 2664,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,12.0,2.0,Snapdragon 7 Gen 1 Accelerated Edition,8.0,2.36,Android,13.0,4.1,89.0
+Realme 11,16999,6.72,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.75,83.0
+Apple iPhone 15 Plus,82990,6.7,1290 x 2796,, Dynamic Island,6.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic  A16,6.0,3.46,iOS,17.0,4.75,84.0
+Vivo S18,26990,6.78,1260 x 2800,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,0.0,Snapdragon 7 Gen3,8.0,2.63,Android,14.0,4.55,84.0
+Vivo V30,33990,6.73,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,13.0,2.0,Snapdragon  7 Gen3,8.0,2.63,Android,13.0,4.0,86.0
+Infinix Smart 8 HD,6299,6.6,720 x 1612,90.0, Punch Hole,3.0,64.0,yes,2048.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.08,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.75,64.0
+Samsung Galaxy A15 5G (8GB RAM + 256GB),22499,6.5,1080 x 2340,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,5.0,2.0,Dimensity 6100 Plus,8.0,2.2,Android,14.0,4.55,82.0
+Meizu 21,38990,6.55,1080 x 2340,120.0, Punch Hole,8.0,256.0,unknown,unknown,4800.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,13.0,5.0,Snapdragon 8 Gen 3,8.0,3.3,Android,13.0,4.05,89.0
+OnePlus 11R (16GB RAM + 256GB),44990,6.74,1240 x 2772,120.0, Punch Hole,16.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.55,87.0
+Realme Narzo 60X,12737,6.72,1080 x 2400,120.0, Punch Hole,4.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.55,75.0
+Motorola Moto G34,14990,6.58,1080 x 2400,120.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,13.0,2.0,Snapdragon 685,8.0,2.8,Android,13.0,4.4,78.0
+Xiaomi 13 Ultra 5G,71499,6.73,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,90.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.3,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.0,
+OnePlus Nord 4 5G,29999,6.43,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,5.0,Snapdragon 7 Gen1,8.0,2.4,Android,12.0,4.35,84.0
+Realme GT 5 (240W),42990,6.74,1240 x 2772,144.0, Punch Hole,24.0,1024.0,no,unknown,4600.0,240.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.15,89.0
+Xiaomi Redmi 13 5G,12499,6.82,1080 x 2460,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,2.0,0.0,Snapdragon 6 Gen 1,8.0,2.2,Android,14.0,4.5,76.0
+Poco F6,39990,6.72,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon 7 Gen3,8.0,2.63,Android,14.0,4.1,85.0
+OnePlus Nord CE 4 5G,23990,6.73,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,13.0,2.0,Snapdragon 782G,8.0,2.7,Android,14.0,4.2,85.0
+Xiaomi Redmi 12C,6999,6.71,720 x 1650,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.7,70.0
+OnePlus 11 5G,53495,6.7,1440 x 3216,120.0, Punch Hole,8.0,128.0,no,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,32.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.5,89.0
+OPPO A79 5G,19999,6.72,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.2,80.0
+Poco C51,5798,6.52,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.08,0.0,Helio G36,8.0,2.2,Android,13.0,4.45,66.0
+Oppo Find X7 Pro 5G,110490,6.83,1440 x 3168,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.35,
+iQOO 12 5G (16GB RAM + 512GB),57999,6.78,1260 x 2800,144.0, Punch Hole,16.0,512.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.55,
+Google Pixel 8A,45990,6.1,1080 x 2400,90.0, Punch Hole,8.0,128.0,no,unknown,4700.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.2,12.0,0.0,"Tensor G3, Nine-Cores",,3.0,Android,14.0,4.65,72.0
+Samsung Galaxy S22 Ultra 5G,84999,6.8,1440 x 3080,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.6,
+Vivo V29 (12GB RAM + 256GB),36900,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 778G,8.0,2.4,Android,13.0,4.0,87.0
+Nothing Phone 2a,29990,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Dimensity 7200,8.0,2.8,Android,13.0,4.25,85.0
+Nothing Phone 2 (12GB RAM + 256GB),39999,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,4700.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.05,89.0
+Samsung Galaxy S24 FE,59999,6.58,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon  8 Gen2,8.0,3.2,Android,14.0,4.0,88.0
+Xiaomi 14 Pro,56990,6.73,1440 x 3200,120.0, Punch Hole,12.0,256.0,no,unknown,4880.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.0,
+Realme C55,8999,6.72,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G88,8.0,2.0,Android,13.0,4.0,73.0
+Oppo A78,15499,6.56,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.7,78.0
+Apple iPhone 14 Plus,66999,6.7,1284 x 2778,, Small Notch,6.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,16.0,4.0,82.0
+Tecno Camon 19 Pro 5G,12999,6.8,1080 x 2460,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Dimensity 810 5G,8.0,2.4,Android,12.0,4.75,82.0
+Apple iPhone 12,42999,,,,,4.0,64.0,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Bionic A14,6.0,3.1,iOS,14.0,4.55,74.0
+Tecno Pova 5 Pro,14999,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.08,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.65,83.0
+Vivo T3 5G,21990,6.58,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,4700.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Snapdragon 7 Gen1,8.0,2.4,Android,14.0,4.7,83.0
+Oppo Reno 10 Pro Plus,54999,6.74,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,4700.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,8.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.6,89.0
+Realme GT Neo 3 5G (12GB RAM + 256GB),25680,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity  8100,8.0,2.85,Android,12.0,4.2,84.0
+Xiaomi Redmi 13C 4G,8947,6.74,720 x 1600,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.08,Helio G85,8.0,2.0,Android,13.0,4.5,73.0
+Poco M6 Pro 5G (8GB RAM + 256GB),13499,6.79,1080 x 2460,90.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.15,80.0
+Infinix Hot 40 5G,16999,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,6000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Dimensity 6100 Plus,8.0,,Android,13.0,4.1,76.0
+Samsung Galaxy M15,15990,6.67,1080 x 2408,120.0, Punch Hole,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,2.0,Exynos,8.0,,Android,14.0,4.15,73.0
+Apple iPhone 16 Pro,137900,6.12,1200 x 2666,120.0, Dynamic Island,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A18 Pro,6.0,,iOS,18.0,4.25,78.0
+Xiaomi 14 Ultra,74990,6.67,1440 x 3200,144.0, Punch Hole,12.0,256.0,unknown,unknown,5180.0,90.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.0,
+Realme GT 2 Pro 5G (12GB RAM + 256GB),33900,6.7,1440 x 3216,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,2.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.7,89.0
+Tecno Spark Go 2024,6699,6.56,720 x 1600,90.0, Punch Hole,3.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.7,64.0
+Asus ROG Phone 8 Pro,94999,6.78,1080 x 2400,165.0,,12.0,256.0,unknown,unknown,5500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,32.0,13.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.45,
+Poco F6 Pro,40990,6.72,1440 x 3200,144.0, Punch Hole,8.0,128.0,unknown,unknown,5500.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,2.0,Snapdragon  8+ Gen1,8.0,3.2,Android,13.0,4.35,87.0
+OnePlus Open,136995,7.82,2268 x 2440,120.0, Punch Hole,16.0,512.0,unknown,unknown,4805.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,,,4.1,
+Samsung Galaxy S23 (8GB RAM + 256GB),61400,6.1,1080 x 2340,120.0, Punch Hole,8.0,256.0,unknown,unknown,3900.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.0,88.0
+Google Pixel 7A,39999,6.1,1080 x 2400,90.0, Punch Hole,8.0,128.0,no,unknown,4385.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,13.0,0.0,Tensor G2,8.0,2.85,Android,13.0,4.7,86.0
+itel A70 4G,6799,6.6,720 x 1612,, Water Drop Notch,4.0,128.0,yes,2048.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Unisoc T603,8.0,,Android,13.0,4.3,60.0
+Infinix Zero 30 5G,22999,6.78,1080 x 2400,144.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,13.0,2.0,Dimensity 8020,8.0,2.6,Android,13.0,4.05,87.0
+Oppo Reno 8T,27989,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,4800.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.4,86.0
+iQOO Z6 Lite (6GB RAM + 128GB),12999,6.58,1080 x 2408,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon  4 Gen 1,8.0,2.0,Android,12.0,4.2,79.0
+Xiaomi Redmi 12 4G,9493,6.79,1080 x 2460,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Helio G88,8.0,2.0,Android,13.0,4.5,75.0
+OnePlus 10R 5G,27394,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 8100 Max,8.0,2.85,Android,12.0,4.15,84.0
+OnePlus 10 Pro 5G,43499,6.7,1440 x 3216,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,8.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.65,89.0
+Apple iPhone XR2,49999,6.1,828 x 1792,,,4.0,64.0,no,unknown,,,,no,yes,yes,yes,yes,yes,no,12.0,5.0,0.0,Apple  A13,,,iOS,12.3,4.6,60.0
+Nubia Red Magic 9 Pro 5G,56990,6.8,1116 x 2480,120.0,,16.0,256.0,unknown,unknown,6500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,2.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.55,87.0
+iQOO Z7 Pro 5G (8GB RAM + 256GB),24999,6.78,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 7200,8.0,2.8,Android,13.0,4.0,80.0
+Realme Narzo N55 (6GB RAM + 128GB),9499,6.72,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G88,8.0,2.0,Android,13.0,4.65,76.0
+Vivo Y56,17999,6.58,1080 x 2408,, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,13.0,4.3,83.0
+Motorola Frontier,62990,6.67,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,125.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,50.0,12.0,Snapdragon  8+ Gen1,8.0,3.2,Android,12.0,4.05,
+Samsung Galaxy A05,9928,6.7,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.7,70.0
+Motorola Moto G62 5G,16449,6.55,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,,,,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Snapdragon  695,8.0,2.2,Android,12.0,4.4,81.0
+Apple iPhone 16,82900,6.12,1200 x 2600,120.0, Small Notch,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic A17,8.0,,iOS,18.0,4.75,75.0
+Poco X5 Pro (8GB RAM + 256GB),22999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Snapdragon 778G,8.0,2.4,Android,12.0,4.15,84.0
+Tecno Spark 20 Pro Plus,17999,6.78,1080 x 2436,120.0, Punch Hole,8.0,256.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,0.08,0.0,Helio G99 Ultimate,8.0,2.2,Android,14.0,4.2,85.0
+Poco C65,7999,6.74,720 x 1600,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.15,73.0
+Infinix Hot 30 5G (8GB RAM + 128GB),12999,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,6000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.75,82.0
+Samsung Galaxy M34 5G (8GB RAM + 128GB),18616,6.5,1080 x 2340,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,13.0,4.0,84.0
+Motorola Moto G82 5G,16800,6.6,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.7,83.0
+Motorola Moto G14,8499,6.5,,, Punch Hole,4.0,128.0,yes,1024.0,5000.0,20.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Tiger  T616,8.0,2.0,Android,13.0,4.05,69.0
+Huawei P60 Pro,83999,6.67,1220 x 2700,120.0, Punch Hole,,,yes,unknown,4815.0,88.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,48.0,48.0,13.0,Snapdragon 8+ Gen 1,8.0,3.19,HarmonyOS,3.1,4.7,81.0
+Apple iPhone 15 Pro,130990,6.1,1179 x 2556,120.0, Dynamic Island,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17 Pro,6.0,3.78,iOS,17.0,4.15,87.0
+Samsung Galaxy M52 5G,23990,6.7,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,5.0,Snapdragon 778G,8.0,2.4,Android,11.0,4.55,83.0
+OPPO Reno 12,34990,6.72,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,32.0,32.0,Dimensity 8300,8.0,3.35,Android,15.0,4.15,87.0
+Motorola Moto Edge 50 Neo,29999,6.67,1080 x 2400,165.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,13.0,0.0,Dimensity 7200,8.0,,Android,14.0,4.55,78.0
+Motorola Moto E13 (8GB RAM + 128GB),7499,6.5,720 x 1600,, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Tiger T606,8.0,2.0,Android,13.0,4.3,73.0
+Samsung Galaxy F14 5G (6GB RAM + 128GB),13490,6.6,2408 x 1080,, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Exynos 1330,8.0,,Android,13.0,4.2,71.0
+Lava Agni 2 5G,19999,6.78,1080 x 2460,120.0, Punch Hole,8.0,256.0,unknown,unknown,4700.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.45,82.0
+Jio JioPhone 5G,9990,6.5,720 x 1600,90.0,,4.0,32.0,yes,512.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.3,64.0
+Realme C2s,3499,6.1,720 x 1560,, Water Drop Notch,3.0,32.0,yes,128.0,4000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio  P22,8.0,2.0,Android,9.0,3.45,63.0
+Xiaomi Redmi 14 5G,14999,6.82,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,2.0,0.0,Octa Core Processor,8.0,,Android,15.0,4.75,75.0
+Nubia Neo,15990,6.6,1080 x 2408,120.0, Water Drop Notch,8.0,256.0,yes,unknown,4500.0,,,yes,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Unisoc T820,8.0,2.7,Android,13.0,4.65,80.0
+iQOO Z7s (8GB RAM + 128GB),16999,6.38,1080 x 2388,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.0,82.0
+iQOO Neo 7 (12GB RAM + 256GB),27999,6.78,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,2.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.2,84.0
+Vivo V26 Pro,42990,6.7,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,8.0,2.0,Dimensity 9000 Plus,8.0,3.2,Android,13.0,4.6,89.0
+Xiaomi Redmi K70E,23999,6.67,1220 x 2712,120.0, Punch Hole,12.0,256.0,unknown,unknown,5500.0,90.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Dimensity 8300 Ultra,8.0,3.35,Android,14.0,4.05,85.0
+Realme GT 5,33990,6.74,1240 x 2772,144.0, Punch Hole,12.0,256.0,no,unknown,5240.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.65,86.0
+Honor X50 GT,23999,6.78,1220 x 2652,120.0, Punch Hole,12.0,256.0,unknown,unknown,5800.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.55,84.0
+Realme Narzo 60 Pro (12GB RAM + 1TB),28999,6.7,1080 x 2400,120.0, Punch Hole,12.0,1024.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.1,85.0
+Snexian Rock Z,2700,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,"32 MB RAM, 32 MB inbuilt",,,Symbian,9.1,4.7,
+Samsung Galaxy M16,16990,6.73,1080 x 2408,120.0, Punch Hole,8.0,128.0,yes,1024.0,7000.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,13.0,2.0,Exynos,8.0,,Android,15.0,4.45,76.0
+Xiaomi Redmi Note 12 (8GB RAM + 256GB),18999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,8.0,2.0,Snapdragon 4 Gen 1,8.0,2.0,Android,12.0,4.2,83.0
+Infinix Hot 40,8990,6.78,1080 x 2460,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,0.08,Helio G88,8.0,2.0,Android,13.0,4.25,83.0
+Xiaomi Redmi Note 12 4G,11999,6.67,1080 x 2400,120.0, Punch Hole,6.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Snapdragon 685,8.0,2.8,Android,13.0,4.7,79.0
+Samsung Galaxy S24 Plus,89990,6.7,1200 x 2480,144.0, Punch Hole,8.0,256.0,unknown,unknown,4900.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.15,89.0
+Motorola Moto G62 (8GB RAM + 128GB),17990,6.55,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,,,,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Snapdragon  695,8.0,2.2,Android,12.0,4.55,83.0
+Samsung Galaxy A25 5G (8GB RAM + 256GB),29999,6.5,1080 x 2340,120.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,14.0,4.25,85.0
+Realme C53 (6GB RAM + 128GB),11075,6.74,1080 x 2400,90.0, Water Drop Notch,6.0,128.0,yes,2048.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Tiger T612,8.0,1.82,Android,13.0,4.6,77.0
+Tecno Pova 5 Pro 5G (8GB RAM + 256GB),15999,6.78,1080 x 2460,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.08,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.75,83.0
+Nokia G42 5G,12499,6.56,720 x 1612,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,20.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,2.0,Snapdragon  480+,8.0,2.2,Android,13.0,4.75,76.0
+Samsung Galaxy A35 5G,29990,6.67,1080 x 2340,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,5.0,Octa Core Processor,8.0,,Android,14.0,4.65,75.0
+Nokia Play 2 Max,55990,6.6,1080 x 2400,120.0, Punch Hole,16.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,13.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.05,
+Vivo V27 Pro,34490,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.5,84.0
+Vivo X Fold 5G,106990,8.03,1916 x 2160,120.0,,12.0,256.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.4,
+iQOO 7,22990,6.62,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4400.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,13.0,2.0,Snapdragon 870,8.0,3.2,Android,11.0,4.05,83.0
+Infinix Smart 8,7999,6.6,720 x 1612,90.0, Punch Hole,4.0,64.0,yes,2048.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.3,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.55,70.0
+Realme Narzo 60X (6GB RAM + 128GB),13780,6.72,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.45,78.0
+Vivo V29e (8GB RAM + 256GB),28999,6.78,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,0.0,Snapdragon  695,8.0,2.2,Android,13.0,4.2,86.0
+Samsung Galaxy A05s,12999,6.7,1080 x 2400,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Snapdragon 680,8.0,2.4,Android,13.0,4.1,78.0
+Samsung Galaxy F34 5G,18499,6.5,1080 x 2340,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,13.0,4.7,83.0
+Vivo Y23,15990,6.6,720 x 1612,120.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.4,73.0
+Samsung Galaxy F14 5G,11990,6.6,2408 x 1080,, Water Drop Notch,4.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Exynos 1330,8.0,,Android,13.0,4.65,68.0
+Poco C55 (6GB RAM + 128GB),7498,6.71,720 x 1650,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.75,75.0
+Tecno Camon 19 Neo,9999,6.8,1080 x 2400,90.0, Punch Hole,6.0,128.0,unknown,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,48.0,2.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.6,77.0
+Apple iPhone 11,43900,6.1,828 x 1792,, Large Notch,4.0,64.0,no,unknown,3110.0,,,no,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,A13 Bionic,6.0,2.65,iOS,13.0,4.35,73.0
+Apple iPhone 9,29990,4.7,750 x 1334,, Large Notch,3.0,64.0,no,unknown,,,,no,yes,yes,yes,yes,yes,no,12.0,0.0,0.0,A13 Bionic,6.0,2.65,iOS,13.0,4.25,61.0
+Vivo Y78t,12990,6.64,1080 x 2388,120.0, Punch Hole,8.0,128.0,unknown,unknown,6000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 6 Gen1,8.0,2.2,Android,13.0,4.2,77.0
+Honor X9B,28990,6.78,1220 x 2652,120.0, Punch Hole,12.0,256.0,unknown,unknown,5800.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,5.0,2.0,Snapdragon 6 Gen1,8.0,2.2,Android,13.0,4.1,85.0
+Poco M6 Pro 5G (4GB RAM + 128GB),10999,6.79,1080 x 2460,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.4,75.0
+Realme 11x 5G (8GB RAM + 128GB),15999,6.72,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.65,81.0
+Nubia Redmagic 8s Pro,45990,6.8,1116 x 2480,120.0,,8.0,128.0,unknown,unknown,6000.0,165.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8+ Gen2,8.0,3.36,Android,13.0,4.05,85.0
+Nokia Magic Max,49990,6.7,1080 x 2400,120.0, Punch Hole,16.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,13.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.0,
+Apple iPhone 18 Pro Max,179900,6.9,1800 x 3200,165.0,,12.0,256.0,no,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,0.0,0.0,"Bionic  A19, Deca Core Processor",,,iOS,20.0,4.75,86.0
+Meizu 20 Infinity Unbound Edition,49999,6.79,1368 x 3192,120.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,12.0,12.0,Snapdragon 8 Gen2,8.0,3.2,Flyme,10.0,4.0,89.0
+OPPO K11 5G,21990,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,unknown,unknown,5800.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 782G,8.0,2.7,Android,13.0,4.15,84.0
+Poco M5,7820,6.58,1080 x 2400,90.0, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,2.0,2.0,Helio G99,8.0,2.2,Android,12.0,4.65,74.0
+OnePlus 11 Pro,69999,6.7,1440 x 3216,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,32.0,Snapdragon  8 Gen2,8.0,3.2,Android,13.0,4.5,
+Poco M4 5G (6GB RAM + 128GB),10999,6.58,1080 x 2400,90.0, Water Drop Notch,6.0,128.0,yes,512.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.15,79.0
+Xiaomi Mi 11X,21989,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,unknown,unknown,4520.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,8.0,5.0,Snapdragon 870,8.0,3.2,Android,11.0,4.55,80.0
+Xiaomi Redmi Note 13 Pro 4G,14990,6.7,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,unknown,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,200.0,8.0,2.0,Helio G99 Ultra,8.0,,Android,14.0,4.7,78.0
+Realme Narzo 60 5G (8GB RAM +256GB),17999,6.43,1080 x 2400,90.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.25,82.0
+Xiaomi Redmi K70 Ultra,49990,6.72,1440 x 3200,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,32.0,5.0,Dimensity 9300,8.0,3.25,Android,14.0,4.0,
+Tecno Camon 20 Pro 5G,19939,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Dimensity 8050,8.0,3.0,Android,13.0,4.6,85.0
+Xiaomi Redmi Note 15,15990,6.73,1080 x 2480,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,80.0,Fast Charging,no,yes,yes,yes,yes,no,yes,64.0,13.0,2.0,Dimensity 6020,8.0,2.2,Android,14.0,4.6,82.0
+Samsung Galaxy A34 5G (8GB RAM + 256GB),28390,6.6,1080 x 2340,120.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,8.0,5.0,Dimensity 1080,8.0,2.6,Android,13.0,4.7,86.0
+Samsung Galaxy A54 5G (8GB RAM + 256GB),37499,6.4,1080 x 2340,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,5.0,Exynos 1380,8.0,2.4,Android,13.0,4.55,89.0
+Tesla Pi Phone,69999,6.73,1080 x 2448,165.0,,16.0,512.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,50.0,Octa Core Processor,8.0,,Android,13.0,4.2,84.0
+Xiaomi Redmi Note 12 Pro Plus,27944,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,no,unknown,4980.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.65,86.0
+Nothing Phone 2,39999,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,4700.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.0,88.0
+OnePlus Nord CE 2 5G (8GB RAM + 128GB),19999,6.43,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Dimensity 900,8.0,2.4,Android,11.0,4.4,85.0
+Asus ROG Phone 8,89990,6.78,1080 x 2400,165.0,,12.0,256.0,unknown,unknown,5500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,5.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.55,
+Infinix Note 30 5G,14499,6.78,1080 x 2460,120.0, Punch Hole,4.0,128.0,yes,2048.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.45,81.0
+Vivo S18 Pro,36990,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,12.0,Dimensity 9200 Plus,8.0,3.35,Android,14.0,4.65,88.0
+Infinix Hot 30i,8299,6.6,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio G37,8.0,2.3,Android,12.0,4.75,76.0
+Motorola Moto E13 (4GB RAM + 64GB),6499,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Tiger T606,8.0,2.0,Android,13.0,4.7,67.0
+Samsung Galaxy S23 Ultra (12GB RAM + 512GB),115990,6.8,1440 x 3088,120.0, Punch Hole,12.0,512.0,no,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,0.0,0.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.45,
+Duoqin F22 Pro,9990,3.54,640 x 960,,,4.0,64.0,yes,unknown,2150.0,,,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.1,
+Gionee G13 Pro,6190,6.26,720 x 1600,, Large Notch,4.0,32.0,yes,unknown,3500.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Tiger  T310,4.0,2.0,HarmonyOS,2.0,4.45,
+Realme GT 2 Pro 5G,31500,6.7,1440 x 3216,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,2.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.55,88.0
+Xiaomi Redmi 13C (8GB RAM + 256GB),11095,6.74,720 x 1600,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.08,Helio G85,8.0,2.0,Android,13.0,4.55,78.0
+Asus ROG Phone 8 Ultimate,109900,6.78,1080 x 2448,165.0,,16.0,512.0,unknown,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,,,4.75,
+Nubia Red Magic 9 Pro Plus 5G,64990,6.8,1116 x 2480,120.0,,16.0,256.0,unknown,unknown,5500.0,165.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,2.0,Snapdragon  8 Gen3,8.0,3.3,Android,14.0,4.2,89.0
+Samsung Galaxy M34 5G (8GB RAM + 256GB),22499,6.5,1080 x 2340,120.0, Water Drop Notch,8.0,256.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,13.0,4.1,85.0
+Jio Bharat B1 4G,1285,2.4,240 x 320,,,512.0,4.0,yes,128.0,2000.0,,,no,yes,yes,yes,,no,no,0.3,0.0,0.0,No Wifi,,,,,4.7,
+Honor 90 5G (12GB RAM +512GB),33999,6.7,1200 x 2664,120.0, Punch Hole,12.0,512.0,unknown,unknown,5000.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,12.0,2.0,Snapdragon 7 Gen 1 Accelerated Edition,8.0,2.36,Android,13.0,4.45,89.0
+Apple iPhone 15 Pro Max (1TB),196900,6.7,1290 x 2796,120.0, Dynamic Island,8.0,1024.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17 Pro,6.0,3.78,iOS,17.0,4.5,89.0
+Poco C51 (6GB RAM + 128 GB),6749,6.52,720 x 1600,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.08,0.0,Helio G36,8.0,2.2,Android,13.0,4.75,70.0
+Oppo A18,9999,6.56,720 x 1612,, Water Drop Notch,4.0,64.0,yes,unknown,5000.0,,,no,yes,yes,yes,yes,no,no,8.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.65,64.0
+OPPO A58 4G,12999,6.72,1080 x 2400,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.2,77.0
+Vivo Y27 5G,20999,6.64,1080 x 2388,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.3,76.0
+Xiaomi Redmi A2 (4GB RAM + 64GB),6799,6.52,720 x 1600,, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio G36,8.0,2.2,Android,13.0,4.7,66.0
+Nothing Phone 3,45990,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,50.0,32.0,Octa Core Processor,8.0,,Android,14.0,4.35,79.0
+Xiaomi Redmi Note 12 Turbo Harry Potter Edition,27990,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.65,83.0
+Vivo Y100,21400,6.38,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,unknown,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Dimensity  900,8.0,2.4,Android,13.0,4.55,82.0
+iQOO Z9,19990,6.67,1080 x 2412,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.3,85.0
+Poco F4 (12GB RAM + 256GB),23999,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon  870,8.0,3.2,Android,12.0,4.45,86.0
+Samsung Galaxy F64 5G,24999,6.7,1080 x 2400,, Punch Hole,6.0,128.0,yes,1024.0,7000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Dimensity 900,8.0,2.4,Android,12.0,4.35,85.0
+BlackZone Winx 4G,3100,2.8,480 x 640,,,2.0,16.0,yes,64.0,,,,no,yes,yes,yes,yes,no,no,5.0,0.0,0.0,Quad Core,4.0,1.0,Android,11.0,4.05,
+Poco M6 5G (8GB RAM + 256GB),12999,6.74,720 x 1650,90.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,0.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.4,77.0
+Vivo V29 Pro (12GB RAM + 256GB),42999,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,12.0,8.0,Dimensity  8200,8.0,3.1,Android,13.0,4.25,85.0
+Samsung Galaxy S21 FE (Snapdragon + 8GB RAM + 128GB),39999,6.4,1080 x 2340,120.0, Punch Hole,8.0,128.0,no,unknown,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.0,12.0,8.0,Snapdragon 888,8.0,2.84,Android,11.0,4.1,88.0
+OPPO A2 Pro 5G,20999,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.55,82.0
+iQOO Neo 7 Pro (12GB RAM + 256GB),35999,6.78,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.2,84.0
+Vivo T2 5G (8GB RAM + 128GB),18999,6.38,1080 x 2400,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.6,82.0
+Vivo V27 (12GB RAM + 256GB),35490,6.78,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity 7200,8.0,2.8,Android,13.0,4.2,86.0
+Tecno Camon 20 Premier,24999,6.67,1080 x 2400,120.0, Punch Hole,8.0,512.0,unknown,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,50.0,2.0,Dimensity 8050,8.0,3.0,Android,13.0,4.5,89.0
+Samsung Galaxy A14 5G (6GB RAM + 128GB),16989,6.6,1080 x 2408,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Exynos 1330,8.0,2.4,Android,13.0,4.75,79.0
+Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),23990,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.5,82.0
+Apple iPhone SE 4,49990,,,,,,,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Bionic A15,6.0,3.22,iOS,16.0,4.15,68.0
+Realme 10,10999,6.4,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G99,8.0,2.2,Android,12.0,4.25,74.0
+Poco M5 (6GB RAM + 128GB),8499,6.58,1080 x 2400,90.0, Water Drop Notch,6.0,128.0,yes,512.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,2.0,2.0,Helio G99,8.0,2.2,Android,12.0,4.75,77.0
+Samsung Galaxy A24,17999,6.5,1080 x 2340,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,5.0,2.0,Helio G99,8.0,2.2,Android,13.0,4.0,79.0
+Xiaomi Redmi 13C (6GB RAM + 128GB),9912,6.74,720 x 1600,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.08,Helio G85,8.0,2.0,Android,13.0,4.6,75.0
+Poco M6 5G (6GB RAM + 128GB),11489,6.74,720 x 1650,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,0.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,13.0,4.0,75.0
+Lava Blaze 2 5G,9999,6.5,720 x 1600,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.25,72.0
+Infinix Zero 30 4G,15999,6.78,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,45.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,2.0,2.0,Helio G99,8.0,2.2,Android,13.0,4.55,85.0
+Nokia 6600 Max 5G,34990,6.56,1200 x 2400,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,7100.0,20.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.2,85.0
+Vivo Y17s,10499,6.56,720 x 1612,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.65,70.0
+Nothing Phone 2 (12GB RAM + 512GB),41999,6.7,1080 x 2412,120.0, Punch Hole,12.0,512.0,unknown,unknown,4700.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.7,89.0
+Vivo Y27 4G,12999,6.64,1080 x 2388,, Water Drop Notch,6.0,128.0,yes,unknown,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.1,76.0
+Realme 11 Pro (8GB RAM + 256GB),24999,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.35,84.0
+Honor 90 Lite,24990,6.7,1080 x 2388,90.0, Punch Hole,8.0,256.0,unknown,unknown,4500.0,35.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,5.0,2.0,Dimensity 6020,8.0,2.2,Android,13.0,4.35,82.0
+Motorola Razr 40,44999,6.9,1080 x 2640,144.0, Punch Hole,8.0,256.0,unknown,unknown,4200.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 7 Gen1,8.0,2.4,,,4.15,89.0
+OnePlus 13,64990,6.82,1440 x 3420,165.0, Punch Hole,12.0,256.0,no,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,50.0,48.0,Snapdragon 8 Gen4,8.0,,Android,13.0,4.35,83.0
+Infinix Hot 40i,7999,6.56,720 x 1612,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.08,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.35,75.0
+Samsung Galaxy A34 5G (8GB RAM + 128GB),27499,6.6,1080 x 2340,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,8.0,5.0,Dimensity 1080,8.0,2.6,Android,13.0,4.0,86.0
+Google Pixel 9 Pro,94990,6.67,1440 x 3120,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,50.0,Google  Tensor G4,8.0,,Android,14.0,4.45,83.0
+OnePlus 11 (16GB RAM + 256GB),61999,6.7,1440 x 3216,120.0, Punch Hole,16.0,256.0,no,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,32.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.0,
+Xiaomi 14,44999,6.36,1200 x 2670,120.0, Punch Hole,8.0,256.0,unknown,unknown,4610.0,90.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.35,
+Nokia 2780 Flip,4990,2.7,240 x 320,,,4.0,512.0,unknown,unknown,1450.0,,,no,yes,yes,,yes,no,no,0.0,0.0,0.0,Snapdragon QM215,4.0,1.3,,,4.25,
+OPPO A17,9999,6.56,720 x 1612,, Water Drop Notch,4.0,64.0,yes,1024.0,,,,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G35,8.0,2.3,Android,12.0,4.55,72.0
+Samsung Galaxy A23 5G,21999,6.6,1080 x 2408,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Snapdragon 695,8.0,2.2,Android,12.0,4.65,79.0
+Realme Narzo 60 Pro 5G,21999,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.4,82.0
+Google Pixel 7 5G,46999,6.3,1080 x 2400,90.0, Punch Hole,8.0,128.0,unknown,unknown,4355.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,0.0,Google Tensor G2,8.0,2.85,Android,13.0,4.4,85.0
+OPPO Reno8 5G,29999,6.43,1080 x 2400,90.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 1300,8.0,3.0,Android,12.0,4.1,83.0
+Google Pixel 6A,43999,6.14,1080 x 2400,, Punch Hole,6.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.2,12.0,0.0,Google  Tensor,8.0,,Android,12.0,4.3,71.0
+itel A56,5490,6.0,720 x 1600,,,1.0,16.0,yes,32.0,4000.0,,,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Quad Core,4.0,1.3,Android,9.0,4.35,
+Vivo U3x,8990,6.58,1080 x 2408,90.0, Water Drop Notch,6.0,64.0,unknown,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Snapdragon  480,8.0,2.0,Android,11.0,4.15,71.0
+Tecno Spark Go 2024 (4GB RAM + 64GB),6999,6.56,720 x 1600,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.4,65.0
+JIo JioPhone Prima 4G,2599,,,,,,,unknown,unknown,,,,no,yes,yes,yes,yes,no,no,0.0,0.0,0.0,"512 MB RAM, 4 GB inbuilt",,,,,4.55,
+Honor 100 Pro,39990,6.78,1224 x 2700,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,32.0,12.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.7,88.0
+Samsung Galaxy A25,22999,6.5,1080 x 2340,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos,8.0,,Android,13.0,4.7,73.0
+Jio Bharat V2,999,1.77,240 x 320,,,512.0,4.0,yes,128.0,1000.0,,,no,yes,yes,yes,,no,no,0.3,0.0,0.0,No Wifi,,,,,4.5,
+Xiaomi Redmi A2 (2GB RAM + 64GB),5499,6.52,720 x 1600,, Water Drop Notch,2.0,64.0,yes,512.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio G36,8.0,2.2,Android,13.0,4.1,63.0
+Samsung Galaxy A76,42990,6.78,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon 7+ Gen2,8.0,2.91,Android,14.0,4.75,
+Realme Narzo N53,8666,6.74,720 x 1600,90.0, Punch Hole,4.0,64.0,yes,2048.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Unisoc T612,8.0,1.8,Android,13.0,4.75,70.0
+Motorola Moto G74,19990,6.56,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,0.0,Dimensity 1080,8.0,2.6,Android,13.0,4.05,86.0
+Apple iPhone 16 Pro Max,159900,6.7,1800 x 3200,120.0, Dynamic Island,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,48.0,12.0,Bionic A18 Pro,6.0,,iOS,18.0,4.2,80.0
+Tecno Spark 10 Pro,11295,6.8,1080 x 2460,90.0, Punch Hole,8.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Helio  G88,8.0,2.0,Android,13.0,4.75,80.0
+Vivo T3 Pro,31990,6.67,1080 x 2408,120.0, Water Drop Notch,8.0,256.0,yes,1024.0,4700.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 782G,8.0,2.7,Android,13.0,4.15,87.0
+Samsung Galaxy S23 Plus,84999,6.6,1080 x 2340,120.0, Punch Hole,8.0,256.0,unknown,unknown,4700.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.75,89.0
+Samsung Galaxy A15 4G,16990,6.5,1080 x 2340,, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,5.0,2.0,Helio G99,8.0,2.2,Android,14.0,4.35,80.0
+OPPO Reno 9 Pro 5G,39999,6.7,1080 x 2412,120.0, Punch Hole,16.0,256.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,0.0,Dimensity 8100 Max,8.0,2.85,Android,13.0,4.05,86.0
+Vivo X90 Pro 5G,69999,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,no,unknown,4870.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,12.0,Dimensity 9200,8.0,3.05,Android,13.0,4.55,
+Motorola Moto G32,10999,6.55,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.15,75.0
+Xiaomi 12 Pro 5G (12GB RAM + 256GB),84999,6.73,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.35,89.0
+Google Pixel 7 Pro 5G,66999,6.7,1440 x 3120,120.0, Punch Hole,12.0,128.0,unknown,unknown,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,12.0,Google  Tensor G2,8.0,2.85,Android,13.0,4.45,89.0
+Apple iPhone 14 Mini,69990,5.42,1080 x 2340,, Punch Hole,6.0,128.0,no,unknown,,,,no,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A16,,,iOS,15.0,4.4,70.0
+Realme GT 2 5G,26720,6.62,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon  888,8.0,2.84,Android,12.0,4.25,84.0
+Samsung Galaxy A01,7999,5.7,720 x 1560,, Water Drop Notch,2.0,16.0,yes,512.0,3000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Snapdragon  439,8.0,2.0,Android,10.0,4.05,60.0
+OPPO Reno 12 Pro,49990,6.74,1240 x 2772,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,32.0,32.0,Snapdragon 8 Gen2,8.0,3.2,Android,15.0,4.45,88.0
+Apple iPhone 15 Plus (256GB),92999,6.7,1290 x 2796,, Dynamic Island,6.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic  A16,6.0,3.46,iOS,17.0,4.75,85.0
+Apple iPhone 15 (256GB),82999,6.1,1179 x 2556,, Dynamic Island,6.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic  A16,6.0,3.46,iOS,17.0,4.15,84.0
+Xiaomi Redmi 12 4G (6GB RAM + 128GB),10192,6.79,1080 x 2460,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Helio G88,8.0,2.0,Android,13.0,4.75,77.0
+Xiaomi Redmi K70,29990,6.67,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,14.0,4.35,85.0
+Motorola Edge 50,55990,6.67,1080 x 2400,165.0,,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,13.0,2.0,Dimensity 9200,8.0,,Android,14.0,4.6,78.0
+Honor X50,15990,6.78,1220 x 2652,120.0, Punch Hole,8.0,128.0,unknown,unknown,5800.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,2.0,0.0,Snapdragon 6 Gen1,8.0,2.2,Android,13.0,4.65,80.0
+Tecno Camon 20,12999,6.67,1080 x 2400,, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.35,83.0
+Asus ROG Phone 7 Pro,94990,6.78,1080 x 2448,165.0,,18.0,512.0,no,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,5.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.3,88.0
+Vivo S19 Pro,39990,6.82,1260 x 2800,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,50.0,Dimensity 9300,8.0,3.25,Android,15.0,4.35,89.0
+Realme GT Neo 5,30999,6.74,1240 x 2772,144.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.6,85.0
+Vivo X90 5G,54990,6.78,1260 x 2800,120.0, Punch Hole,8.0,256.0,no,unknown,4810.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,12.0,12.0,Dimensity 9200,8.0,3.05,Android,13.0,4.6,89.0
+Vivo V25 5G,23199,6.44,1080 x 2408,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity  900,8.0,2.0,Android,12.0,4.65,83.0
+Motorola Edge 30 Fusion 5G,32190,6.55,1080 x 2400,144.0, Punch Hole,8.0,128.0,no,unknown,4400.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,2.0,Snapdragon 888+,8.0,2.9,Android,12.0,4.4,88.0
+Sony Xperia Pro-I,134999,6.5,1644 x 3840,120.0,,12.0,512.0,yes,1024.0,4500.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.0,12.0,12.0,Snapdragon 888,8.0,2.84,Android,11.0,4.3,
+Xiaomi Redmi Note 11 Pro Max 5G,19999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,512.0,5200.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,0.0,0.0,Snapdragon 778G,8.0,2.4,Android,11.0,4.05,83.0
+Motorola Moto G60,13499,6.78,1080 x 2460,120.0, Punch Hole,6.0,128.0,yes,1024.0,6000.0,20.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,8.0,2.0,Snapdragon  732G,8.0,2.3,Android,11.0,4.5,84.0
+Realme GT 5G,23999,6.43,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon  888,8.0,2.84,Android,11.0,4.5,85.0
+Poco X3 Pro,16948,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,unknown,5160.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,48.0,0.0,0.0,Snapdragon 860,8.0,2.96,Android,11.0,4.5,82.0
+itel P36,6490,6.5,1600 x 720,, Water Drop Notch,1.0,16.0,unknown,unknown,5000.0,,,no,yes,yes,yes,yes,no,no,8.0,0.3,0.0,Spreadtrum  SC7731E,4.0,1.3,Android,9.0,4.65,
+OPPO F21 Pro 5G,23499,6.43,1080 x 2400,, Punch Hole,8.0,128.0,yes,1024.0,4500.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.4,82.0
+Honor 90 GT,29990,6.7,1200 x 2664,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,12.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.05,84.0
+Realme C65 5G,12999,6.72,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.45,78.0
+Ulefone Power Armor 18 Ultra,24999,6.58,1080 x 2408,120.0,,12.0,512.0,yes,unknown,9600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,8.0,5.0,Dimensity (6 nm),8.0,2.6,Android,13.0,4.2,
+Nokia G42 5G (8GB RAM + 256GB),16120,6.56,720 x 1612,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,20.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,2.0,Snapdragon  480+,8.0,2.2,Android,13.0,4.35,79.0
+Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),59999,6.4,1080 x 2340,120.0, Punch Hole,8.0,256.0,no,unknown,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,8.0,Exynos 2200,8.0,2.8,Android,13.0,4.0,87.0
+Tecno Spark 20,11999,6.6,720 x 1612,90.0, Punch Hole,8.0,256.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Helio  G85,8.0,2.0,Android,13.0,4.75,79.0
+Itel P40 Plus,7589,6.8,720 x 1640,90.0, Punch Hole,4.0,128.0,yes,1024.0,7000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Unisoc T606,8.0,2.0,Android,13.0,4.55,63.0
+Samsung Galaxy Z Fold 6,179990,8.0,1812 x 2176,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon  8 Gen3,8.0,,Android,14.0,4.45,85.0
+Realme C51,8796,6.74,720 x 1600,90.0, Water Drop Notch,4.0,64.0,yes,2048.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Unisoc T612,8.0,1.8,Android,13.0,4.5,69.0
+Samsung Galaxy F15,15990,6.67,1080 x 2408,120.0, Punch Hole,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,2.0,Exynos,8.0,,Android,14.0,4.35,73.0
+Realme C55 (6GB RAM + 64GB),9478,6.72,1080 x 2400,90.0, Punch Hole,6.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G88,8.0,2.0,Android,13.0,4.05,75.0
+Realme GT Neo 5 (240W),39999,6.74,1240 x 2772,144.0, Punch Hole,16.0,256.0,unknown,unknown,4600.0,240.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.45,87.0
+Samsung Galaxy Z Fold 5,154999,7.6,1812 x 2176,120.0, Punch Hole,12.0,256.0,unknown,unknown,4400.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.75,
+Xiaomi Redmi Note 12 (6GB RAM + 128GB),16999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,8.0,2.0,Snapdragon 4 Gen 1,8.0,2.0,Android,12.0,4.4,80.0
+Vivo Y22,14499,6.55,720 x 1612,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G70,8.0,2.0,Android,12.0,4.6,72.0
+Infinix Zero Ultra,29999,6.8,1080 x 2400,120.0, Punch Hole,8.0,256.0,no,unknown,4500.0,180.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,13.0,2.0,Dimensity 920 5G,8.0,2.5,Android,12.0,4.15,88.0
+Samsung Galaxy A75 5G,44999,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon 778G+,8.0,,Android,12.0,4.05,83.0
+Realme 10 Pro Plus,24999,6.7,1080 x 2412,120.0, Punch Hole,6.0,128.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,13.0,4.45,82.0
+Vivo V25 Pro 5G,34999,6.56,1080 x 2376,120.0, Punch Hole,8.0,128.0,unknown,unknown,4830.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity 1300,8.0,3.0,Android,12.0,4.6,84.0
+Vivo V23 Pro 5G,29900,6.56,1080 x 2376,90.0, Small Notch,8.0,128.0,no,unknown,4300.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,8.0,2.0,Dimensity 1200,8.0,3.0,Android,12.0,3.9,85.0
+Apple iPhone 13 (256GB),62999,6.1,1170 x 2532,, Small Notch,4.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,15.0,4.25,79.0
+Motorola Moto E40,6399,6.5,720 x 1600,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,48.0,2.0,2.0,Tiger T700,8.0,1.8,Android,11.0,4.2,71.0
+Samsung Galaxy S21 Ultra,92999,6.8,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Exynos  2100,8.0,2.9,Android,10.0,4.25,
+Jio Phone 3,4499,5.0,720 x 1280,,,2.0,64.0,yes,128.0,2800.0,,,no,yes,yes,yes,yes,no,no,5.0,0.0,0.0,Quad Core,4.0,1.4,Android,8.1,4.15,
+itel P55 5G,9965,6.6,1600 x 720,90.0, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.2,72.0
+Lava Blaze Pro 5G,12999,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.5,79.0
+OPPO A38,11999,6.56,720 x 1612,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.3,72.0
+Oppo A78 4G,15499,6.43,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,13.0,4.25,81.0
+itel S23,7999,6.6,1600 x 720,90.0, Water Drop Notch,8.0,128.0,yes,512.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Octa Core,8.0,1.6,Android,13.0,4.05,75.0
+Vivo Y18,14990,6.58,1200 x 2400,120.0, Water Drop Notch,4.0,64.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G99,8.0,2.2,Android,14.0,4.15,74.0
+Motorola Edge 50 Pro,89990,6.72,1080 x 2400,165.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,50.0,12.0,Snapdragon 8 Gen3,8.0,,Android,14.0,4.7,85.0
+Lava Agni 3 5G,24990,6.67,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,13.0,2.0,Dimensity  7200,8.0,,Android,14.0,4.4,76.0
+iQOO 13 Pro,72990,6.8,1440 x 3200,165.0, Punch Hole,12.0,512.0,unknown,unknown,5000.0,250.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,50.0,50.0,Snapdragon 8 Gen4,8.0,,Android,14.0,4.7,86.0
+Xiaomi Redmi Note 14 Pro Plus,34990,6.71,1080 x 2400,144.0, Punch Hole,8.0,256.0,no,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,13.0,2.0,Dimensity 8020,8.0,,Android,14.0,4.4,78.0
+Meizu 20 Pro,47990,6.81,1440 x 3200,120.0, Punch Hole,12.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Snapdragon 8 Gen2,8.0,3.2,Flyme,10.0,4.55,
+Realme GT Neo 5 SE,23990,6.74,1240 x 2772,144.0, Punch Hole,8.0,256.0,unknown,unknown,5500.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.55,85.0
+Motorola Moto X50,49990,6.78,1080 x 2400,165.0,,12.0,256.0,unknown,unknown,5000.0,125.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,50.0,Snapdragon 8+ Gen2,8.0,,Android,13.0,4.45,83.0
+Tecno Phantom V Fold,69999,7.85,2000 x 2296,120.0,,12.0,256.0,unknown,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Dimensity 9000 Plus,8.0,3.2,Android,13.0,4.4,
+Samsung Galaxy A14 5G (8GB RAM + 128GB),18989,6.6,1080 x 2408,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Exynos 1330,8.0,2.4,Android,13.0,4.65,82.0
+Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),23999,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.1,82.0
+Samsung Galaxy F04,7699,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.7,68.0
+Google Pixel 8,75999,6.2,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4575.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,0.0,"Tensor G3, Nine Core",9.0,3.0,Android,14.0,4.5,77.0
+Nothing Phone 1 (12GB RAM + 256GB),31999,6.55,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Snapdragon 778G Plus,8.0,2.5,Android,12.0,4.05,86.0
+iQOO Z8 5G,19499,6.64,1080 x 2388,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Dimensity 8200,8.0,3.1,Android,13.0,4.45,83.0
+Vivo T1 44W (6GB RAM + 128GB),15999,6.44,1080 x 2408,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.0,79.0
+Samsung Galaxy F23 5G (6GB RAM + 128GB),18499,6.6,1080 x 2408,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon  750G,8.0,2.2,Android,12.0,4.5,80.0
+OPPO Reno 8 Pro 5G,35490,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 8100-Max,8.0,2.85,Android,12.0,4.4,86.0
+OnePlus Nord CE 2 5G,23990,6.43,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,1024.0,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Dimensity 900,8.0,2.4,Android,11.0,4.6,82.0
+Xiaomi Redmi Note 10 JE 5G,10990,6.5,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,4800.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,2.0,2.0,Snapdragon 480,8.0,2.0,Android,11.0,4.75,74.0
+Samsung Galaxy S22 Plus 5G,59999,6.6,1080 x 2340,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.35,87.0
+OnePlus 9R (12GB RAM + 256GB),34990,6.55,1080 x 2400,120.0, Punch Hole,12.0,256.0,no,unknown,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,0.0,0.0,Snapdragon 870,8.0,3.2,Android,11.0,4.1,88.0
+Samsung Galaxy A82 5G,39990,6.71,1440 x 3200,120.0, Punch Hole,6.0,128.0,yes,1024.0,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,5.0,Snapdragon 855+,8.0,2.96,Android,11.0,4.35,86.0
+Samsung Galaxy Z Flip 3,45429,6.7,1080 x 2640,120.0, Punch Hole,8.0,128.0,unknown,unknown,3300.0,15.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 888,8.0,2.84,,,4.2,83.0
+Samsung Galaxy Note 10 Plus,53785,6.8,1440 x 3040,, Punch Hole,12.0,256.0,yes,1024.0,4300.0,45.0,Fast Charging,no,yes,yes,yes,yes,yes,no,12.0,0.0,0.0,Exynos 9825,8.0,2.73,Android,9.0,4.5,89.0
+Vivo X100 Ultra,89990,6.78,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,5400.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.3,
+Google Pixel 8 Pro (12GB RAM + 256 GB),113999,6.7,1344 x 2992,120.0, Punch Hole,12.0,256.0,unknown,unknown,5050.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,48.0,"Tensor G3, Nine Cores",9.0,3.0,Android,14.0,4.15,82.0
+OnePlus Ace 3V,29999,6.78,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Snapdragon 7 Gen3,8.0,2.63,Android,13.0,4.6,85.0
+Xiaomi Civi 4,34990,6.67,1080 x 2400,144.0, Punch Hole,12.0,512.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,2.0,Dimensity 8300 Ultra,8.0,,Android,14.0,4.6,80.0
+Realme C53 (6GB RAM + 64GB),9599,6.74,1080 x 2400,90.0, Water Drop Notch,6.0,64.0,yes,2048.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Tiger T612,8.0,1.82,Android,13.0,4.0,76.0
+Infinix Hot 30 5G,12499,6.78,1080 x 2460,120.0, Punch Hole,4.0,128.0,yes,1024.0,6000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.75,77.0
+Xiaomi Redmi Note 12R,11990,6.79,1080 x 2460,90.0, Punch Hole,4.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.6,75.0
+OnePlus Ace 2 Pro,34990,6.74,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.45,86.0
+Poco F5 (12GB RAM + 256GB),33999,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.65,85.0
+OnePlus 13 Pro,70990,6.78,1440 x 3412,165.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,200.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,50.0,48.0,Snapdragon  8 Gen4,8.0,,Android,14.0,4.15,86.0
+Tecno Spark 11,11990,6.67,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Helio G99,8.0,2.2,Android,14.0,4.75,79.0
+Vivo T3x 5G,17999,6.67,1080 x 2408,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity 7020,8.0,,Android,14.0,4.2,71.0
+Vivo Y02t 4G,8499,6.51,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio P35,8.0,2.3,Android,13.0,4.2,64.0
+Infinix Note 30,17990,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,80.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Helio  G99,8.0,2.2,Android,13.0,4.75,82.0
+Realme Narzo N55,9988,6.72,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G88,8.0,2.0,Android,13.0,4.4,73.0
+iQOO Neo 8,28999,6.78,1260 x 2800,144.0, Punch Hole,12.0,256.0,unknown,unknown,4880.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.7,83.0
+Vivo V27 4G,19990,6.64,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Helio G85,8.0,2.0,Android,13.0,4.1,80.0
+Xiaomi Redmi A2,5799,6.52,720 x 1600,, Water Drop Notch,2.0,32.0,yes,512.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio G36,8.0,2.2,Android,13.0,4.35,61.0
+Poco F5 Pro,36999,6.67,1440 x 3200,120.0, Punch Hole,8.0,256.0,unknown,unknown,5160.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.65,87.0
+Motorola Moto E13,5999,6.5,720 x 1600,, Water Drop Notch,2.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Tiger T606,8.0,2.0,Android,13.0,4.55,64.0
+Lava Blaze 5G,9999,6.5,1600 x 720,90.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,,,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.7,73.0
+Vivo Y16 (4GB RAM + 64GB),9490,6.51,720 x 1600,, Water Drop Notch,4.0,64.0,yes,unknown,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.2,68.0
+Realme Narzo 50i Prime (4GB RAM + 64GB),6399,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Tiger T612,8.0,1.82,Android,11.0,4.3,64.0
+Xiaomi Redmi K50i 5G,25999,6.6,1080 x 2460,144.0, Punch Hole,6.0,128.0,unknown,unknown,5080.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Dimensity  8100,8.0,2.85,Android,12.0,4.65,82.0
+Samsung Galaxy M35,22999,6.5,1080 x 2400,, Water Drop Notch,8.0,128.0,yes,1024.0,,,,no,yes,yes,yes,yes,yes,no,64.0,8.0,5.0,Octa Core Processor,8.0,,Android,12.0,4.3,74.0
+OnePlus Nord 2T (12GB RAM + 256GB),33990,6.43,1080 x 2400,90.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity  1300,8.0,3.0,Android,12.0,4.2,85.0
+Vivo Y78 5G,15990,6.64,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 7020,8.0,,Android,13.0,4.2,66.0
+Realme GT Neo 3T,24999,6.62,1080 x 2400,120.0, Punch Hole,6.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 870,8.0,3.2,Android,12.0,4.05,79.0
+Motorola Moto G52,10999,6.6,2460 x 1080,90.0, Punch Hole,4.0,64.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.4,75.0
+OnePlus 10 Pro 5G (12GB RAM + 256GB),52487,6.7,1440 x 3216,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,8.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.05,
+Realme GT Neo 3 5G,26994,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity  8100,8.0,2.85,Android,12.0,4.65,83.0
+Samsung Galaxy A53 5G,31990,6.5,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Exynos 1280,8.0,2.4,Android,12.0,4.6,87.0
+Xiaomi Mi 11 Lite NE 5G,20999,6.55,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,unknown,4250.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,5.0,Snapdragon  778G,8.0,2.4,Android,11.0,4.3,83.0
+Nokia 2720 V Flip,6199,2.8,240 x 320,,,512.0,4.0,unknown,unknown,1500.0,,,no,yes,yes,yes,yes,no,no,0.0,0.0,0.0,"Snapdragon 205 , Dual Core",2.0,1.1,,,4.25,
+Apple iPhone 12 (128GB),48999,,,,,4.0,128.0,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Bionic A14,6.0,3.1,iOS,14.0,4.55,75.0
+Xiaomi Poco F1 (6GB RAM + 128GB),10999,6.18,1080 x 2246,, Large Notch,6.0,128.0,yes,256.0,,,,no,yes,yes,yes,yes,no,no,12.0,5.0,0.0,Snapdragon 845,8.0,2.8,Android,8.1,4.6,78.0
+Samsung Galaxy M05,6499,6.5,720 x 1600,90.0, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Octa Core Processor,8.0,,Android,13.0,4.45,62.0
+Snexian Rock X,2500,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,"32 MB RAM, 32 MB inbuilt",,,,,4.6,
+Poco X6 Neo,23990,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,2.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.6,84.0
+Samsung Galaxy A05s (4GB RAM + 128GB),11499,6.7,1080 x 2400,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Snapdragon 680,8.0,2.4,Android,13.0,4.75,75.0
+Blackview A200 Pro,20999,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,1024.0,5050.0,66.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,8.0,2.0,Helio G99,8.0,2.2,Android,12.0,4.65,84.0
+Samsung Galaxy F34 5G (8GB RAM + 128GB),20499,6.5,1080 x 2340,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Exynos 1280,8.0,2.4,Android,13.0,4.25,85.0
+Honor Magic 6,80999,6.74,1224 x 2688,144.0, Punch Hole,12.0,256.0,unknown,unknown,5800.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,160.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,13.0,4.15,
+Realme Narzo N53 (6GB RAM + 128GB),10000,6.74,720 x 1600,90.0, Punch Hole,6.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Unisoc T612,8.0,1.8,Android,13.0,4.25,74.0
+Infinix Note 30 Pro,19990,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,68.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,2.0,2.0,Helio G99,8.0,2.2,Android,13.0,4.45,88.0
+Xiaomi Redmi 12C (6GB RAM + 128GB),8999,6.71,720 x 1650,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.05,74.0
+Xiaomi Redmi Note 14 Pro 5G,18990,6.71,1080 x 2460,144.0, Punch Hole,8.0,128.0,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,2.0,Dimensity 6020,8.0,2.2,Android,13.0,4.05,83.0
+Duoqin Qin 3 Ultra,18990,5.02,720 x 1600,, Punch Hole,8.0,256.0,no,unknown,,,,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio G99,8.0,2.2,Android,12.0,4.25,66.0
+Infinix Zero 5G 2023 Turbo,17999,6.78,1080 x 2460,120.0, Punch Hole,8.0,256.0,yes,256.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.25,85.0
+Honor X9a,27999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5100.0,40.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,5.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.6,82.0
+Samsung Galaxy Z Flip 5,99999,6.7,1080 x 2640,120.0, Punch Hole,8.0,256.0,unknown,unknown,3700.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen 2,8.0,3.2,,,4.0,88.0
+Xiaomi Redmi Note 11R,12990,6.58,1080 x 2400,90.0, Water Drop Notch,4.0,128.0,yes,512.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,13.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.05,73.0
+Apple iPhone 14 (256GB),68999,6.1,1170 x 2532,, Small Notch,6.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,16.0,4.5,81.0
+Vivo X Fold 2,107990,8.03,1916 x 2160,120.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.25,
+Oppo Find X7 5G,47999,6.78,1264 x 2780,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,50.0,50.0,Dimensity 9300,8.0,3.25,Android,14.0,4.4,
+iQOO 11 5G,51999,6.78,1440 x 3200,144.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,8.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.6,87.0
+Samsung Galaxy F13,9999,6.6,2408 x 1080,, Water Drop Notch,4.0,64.0,yes,1024.0,6000.0,15.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,5.0,2.0,Exynos 850,8.0,2.0,Android,12.0,4.05,74.0
+Realme 9 5G,13999,6.5,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,2.0,2.0,Dimensity  810 5G,8.0,2.4,Android,11.0,3.95,75.0
+Honor 60 SE 5G,24990,6.67,1080 x 2340,120.0, Punch Hole,8.0,128.0,unknown,unknown,4300.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity 900,8.0,2.0,Android,11.0,4.05,75.0
+Tecno Spark 9T,7099,6.6,1080 x 2408,, Water Drop Notch,4.0,64.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G35,8.0,2.3,Android,12.0,4.5,72.0
+Samsung Galaxy A23,17149,6.6,1080 x 2408,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Snapdragon  680,8.0,2.4,Android,12.0,4.1,79.0
+Xiaomi Redmi Note 11,11500,6.43,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,0.0,0.0,Snapdragon  680,8.0,2.4,Android,11.0,4.5,76.0
+Samsung Galaxy A33 5G,25999,6.4,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,0.0,0.0,Exynos  1280,8.0,2.4,Android,12.0,4.6,82.0
+Poco X4 Pro 5G,15999,6.67,1080 x 2400,120.0, Punch Hole,6.0,64.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,11.0,4.25,80.0
+Nokia 8000 4G,6899,2.8,240 x 320,,,512.0,4.0,yes,unknown,1500.0,,,no,yes,yes,,yes,no,no,2.0,0.0,0.0,Snapdragon  210,4.0,1.1,,,4.55,
+Jio JioPhone,2990,2.4,240 x 320,,,512.0,4.0,yes,128.0,2000.0,,,no,yes,yes,yes,yes,no,no,2.0,0.0,0.0,"QC8905, Dual Core",2.0,1.2,,,3.6,
+Tecno Camon 30 Premier 5G,34990,6.78,1080 x 2400,144.0, Punch Hole,12.0,512.0,unknown,unknown,5000.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,100.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.0,
+Honor X50i Plus,18990,6.7,1080 x 2400,90.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,2.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.45,81.0
+Lava Blaze 2 5G (6GB RAM + 128GB),10999,6.5,720 x 1600,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.7,75.0
+Nubia Z50S,24999,6.67,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,50.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.15,82.0
+Vivo Y27s,12990,6.64,1080 x 2388,90.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Snapdragon  680,8.0,2.4,Android,13.0,4.2,79.0
+Vivo V40 Lite 5G,45990,6.68,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,8.0,2.0,Snapdragon 6 Gen1,8.0,2.2,Android,14.0,4.65,87.0
+Samsung Galaxy M44 5G,29999,6.58,1080 x 2400,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,2.0,Snapdragon 888,8.0,2.84,Android,13.0,4.15,83.0
+Jio Bharat K1 Karbonn,999,,,,,,,unknown,unknown,,,,no,yes,yes,yes,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.4,
+Xiaomi Redmi 14C,9999,6.78,720 x 1650,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio  G99,8.0,2.2,Android,13.0,4.5,71.0
+iKall K333 4G,3299,2.8,240 x 360,,,2.0,16.0,yes,128.0,3000.0,,,no,yes,yes,yes,,no,no,2.0,0.0,0.0,Helio MT6739,,,Android,12.0,4.15,
+Tecno Pova 6,18990,6.8,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,6000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,0.0,0.0,Dimensity 6080,8.0,,Android,14.0,4.55,69.0
+Infinix Zero 40,19990,6.78,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,2048.0,5000.0,100.0,Fast Charging,no,yes,yes,yes,yes,yes,no,200.0,32.0,8.0,Helio,8.0,,Android,14.0,4.55,80.0
+Nokia 110 4G 2023,2149,1.8,120 x 160,,,128.0,48.0,yes,32.0,1450.0,,,no,yes,yes,yes,,no,no,0.3,0.0,0.0,No Wifi,,,,,4.6,
+Sony Xperia 1 V,125990,6.5,1644 x 3840,120.0,,12.0,256.0,yes,unknown,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Snapdragon  8 Gen2,8.0,3.2,Android,13.0,4.15,
+Motorola Razr 40 Ultra,72999,6.9,1080 x 2640,165.0, Punch Hole,8.0,256.0,unknown,unknown,3800.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon  8+ Gen1,8.0,3.2,,,4.2,89.0
+Xiaomi Redmi Note 14,13990,6.67,1080 x 2460,90.0, Punch Hole,4.0,128.0,yes,1024.0,6000.0,67.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Helio G99,8.0,2.2,Android,12.0,4.35,75.0
+OPPO A98 5G,24990,6.72,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.05,82.0
+Asus Zenfone 10,70990,5.92,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,4300.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.15,89.0
+Redmi K60 Ultra,29990,6.67,1220 x 2712,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Dimensity 9200 Plus,8.0,3.05,Android,13.0,4.15,85.0
+Vivo V27 Pro (12GB RAM + 256GB),37999,6.78,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.75,86.0
+Nubia Z50 Ultra,46990,6.8,1116 x 2480,120.0,,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,64.0,50.0,Snapdragon 8 gen2,8.0,3.2,Android,13.0,4.7,88.0
+OnePlus V Flip,79990,6.78,1080 x 2520,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Dimensity 9000 Plus,8.0,3.2,,,4.4,89.0
+iKall Z19 Pro,7229,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,128.0,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Quad Core,4.0,1.6,Android,11.0,4.25,60.0
+Huawei Mate 60 Pro,79990,6.82,1212 x 2616,120.0, Punch Hole,12.0,256.0,yes,256.0,5000.0,88.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,48.0,12.0,Kirin 9000S,8.0,2.62,Hongmeng,4.0,4.15,
+Motorola Moto G13,8999,6.5,720 x 1600,90.0, Punch Hole,4.0,128.0,yes,512.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,2.0,Helio G85,8.0,2.0,Android,13.0,4.2,75.0
+Tecno Phantom X2,34317,6.8,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5160.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,13.0,2.0,Dimensity 9000,8.0,3.05,Android,12.0,4.5,85.0
+Vivo Y22 (6GB RAM + 128GB),12914,6.55,720 x 1612,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G70,8.0,2.0,Android,12.0,4.35,75.0
+Oppo Find X6,54990,6.74,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,4880.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Dimensity 9200,8.0,3.05,Android,13.0,4.15,
+Vivo Y35,13890,6.58,1080 x 2408,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.1,79.0
+OPPO A57 4G (4GB RAM + 64 GB),10999,6.56,720 x 1612,, Water Drop Notch,4.0,64.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio G35,8.0,2.3,Android,12.0,4.25,69.0
+Nubia Red Magic 8 Pro 5G,46990,6.8,1116 x 2480,120.0,,8.0,128.0,unknown,unknown,6000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.3,84.0
+Infinix Note 13 Pro,16999,6.91,1080 x 2460,, Punch Hole,6.0,128.0,yes,256.0,5000.0,120.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,0.0,0.0,Helio G99,8.0,2.2,Android,12.0,4.55,81.0
+OnePlus Ace Racing Edition 5G,22990,6.59,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Dimensity 8100 Max,8.0,2.85,Android,12.0,4.15,83.0
+Samsung Galaxy F24 5G,14999,6.6,1080 x 2408,120.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.4,78.0
+Motorola Edge 30 5G (8GB RAM + 128GB),22999,6.5,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,4020.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,2.0,Snapdragon 778G+,8.0,2.5,Android,12.0,4.65,85.0
+Realme 9 5G SE,19499,6.6,1080 x 2412,144.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,2.0,2.0,Snapdragon  778G,8.0,2.4,Android,11.0,4.2,80.0
+Samsung Galaxy M33 5G,16999,6.6,1080 x 2400,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Exynos  1280,8.0,2.4,Android,12.0,4.3,81.0
+Xiaomi Redmi Note 11 Pro Plus 5G,21469,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Snapdragon  695,8.0,2.2,Android,11.0,4.15,83.0
+Samsung Galaxy M52 5G (8GB RAM + 128GB),24990,6.7,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,5.0,Snapdragon 778G,8.0,2.4,Android,11.0,4.25,86.0
+Apple iPhone 13 Pro Max (1TB),179900,6.7,1284 x 2778,120.0, Small Notch,6.0,1024.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,12.0,Bionic A15,6.0,3.22,iOS,15.0,4.7,86.0
+Vivo Y21 2021,11599,6.51,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,11.0,4.05,69.0
+Xiaomi Mi 11i 5G,24999,6.67,2400 x 1080,120.0, Punch Hole,6.0,128.0,yes,1024.0,5160.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Dimensity  920 5G,8.0,2.5,Android,11.0,4.0,81.0
+itel S16 Pro,6990,6.6,1600 x 720,, Punch Hole,2.0,32.0,yes,32.0,4000.0,,,no,yes,yes,yes,yes,no,no,8.0,2.0,0.3,Quad Core,4.0,1.3,Android,10.0,4.55,
+Realme 7 Pro (8GB RAM + 128GB),16999,6.4,1080 x 2400,, Punch Hole,8.0,128.0,yes,256.0,4500.0,65.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,0.0,0.0,Snapdragon 720G,8.0,2.3,Android,10.0,4.65,85.0
+Xiaomi Redmi K20 Pro Signature Edition,480000,6.39,1080 x 2340,,,8.0,256.0,no,unknown,4000.0,27.0,Fast Charging,no,yes,yes,yes,yes,yes,no,48.0,13.0,8.0,Snapdragon  855,8.0,2.8,Android,9.0,3.9,88.0
+Apple iPhone SE 2020,39900,4.7,750 x 1334,,,3.0,64.0,unknown,unknown,1821.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,12.0,0.0,0.0,A13 Bionic,6.0,2.65,iOS,13.0,4.1,63.0
+Samsung Guru Music 2 Dual Sim,1659,2.0,128 x 160,,,,,yes,16.0,800.0,,,no,no,no,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.5,
+Sony Xperia 1 VI,129990,6.6,1644 x 3840,120.0,,12.0,256.0,yes,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,32.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.4,
+Lava Blaze Curve 5G,16990,6.7,1080 x 2460,120.0, Punch Hole,6.0,128.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Dimensity 6020,8.0,2.2,Android,13.0,4.45,77.0
+Poco C65 (6GB RAM + 128GB),8972,6.74,720 x 1600,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio  G85,8.0,2.0,Android,13.0,4.2,68.0
+Lava Yuva 3 Pro,8999,6.5,1600 x 720,90.0, Punch Hole,8.0,128.0,yes,512.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Tiger T616,8.0,2.0,Android,13.0,4.25,75.0
+Realme C67 4G,11990,6.72,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Snapdragon 685,8.0,2.8,Android,14.0,4.4,80.0
+Samsung Galaxy A05 (6GB RAM + 128GB),12499,6.7,720 x 1600,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.7,74.0
+Nubia Red Magic 10 Pro 5G,59990,6.82,1116 x 2480,144.0,,12.0,256.0,unknown,unknown,6700.0,180.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,5.0,Octa Core Processor,8.0,,Android,15.0,4.05,80.0
+OnePlus Nord N30 SE,19990,6.72,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Snapdragon 695 5G,8.0,2.2,Android,13.0,4.65,85.0
+Apple iPhone 15 Pro (256GB),140990,6.1,1179 x 2556,120.0, Dynamic Island,8.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17 Pro,6.0,3.78,iOS,17.0,4.45,88.0
+Apple iPhone 15 Pro Max (512GB),176900,6.7,1290 x 2796,120.0, Dynamic Island,8.0,512.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17 Pro,6.0,3.78,iOS,17.0,4.6,89.0
+Realme 12X,17999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,2048.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Octa Core Processor,8.0,,Android,13.0,4.2,75.0
+Huawei Mate 60 Pro Plus,98990,6.82,1260 x 2720,120.0, Punch Hole,16.0,512.0,yes,256.0,5000.0,88.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,48.0,48.0,40.0,Kirin 9000S,8.0,2.62,Hongmeng,4.0,4.65,
+Motorola Moto G86,24999,6.56,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,13.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.55,86.0
+Motorola Moto G55,29999,6.55,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,13.0,0.0,Snapdragon  7+ Gen2,8.0,2.91,Android,14.0,4.45,86.0
+Nokia 130 Music 2023,1749,2.4,240 x 320,,,4.0,4.0,yes,32.0,1450.0,,,no,no,no,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.2,
+Nubia Z50S Pro,43999,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,8.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.55,88.0
+Vivo Y56 5G (4GB RAM + 128GB),15999,6.58,1080 x 2408,, Water Drop Notch,4.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,13.0,4.3,78.0
+Tecno Camon 20 Pro 5G (8GB RAM + 256GB),21848,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Dimensity 8050,8.0,3.0,Android,13.0,4.05,86.0
+Realme 11 Pro (12GB RAM + 256GB),27999,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.0,85.0
+Samsung Galaxy A24 5G,24999,6.5,1080 x 2340,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,5.0,2.0,Octa Core Processor,8.0,,Android,13.0,4.7,74.0
+Vivo X Fold 3,114990,8.2,1916 x 2160,144.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.0,
+Samsung Galaxy A56,43990,6.72,1080 x 2340,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,5.0,Exynos,8.0,,Android,13.0,4.3,80.0
+Realme C56,12990,6.74,1080 x 2400,120.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G99,8.0,2.2,Android,14.0,4.65,74.0
+Poco X7 Pro,32990,6.8,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,0.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,14.0,4.15,85.0
+Vivo Y36 4G,14999,6.64,1080 x 2388,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,13.0,4.45,80.0
+Honor 90 Pro,55990,6.78,1224 x 2700,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,90.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,32.0,12.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.2,
+Vivo Y100A (8GB RAM + 256GB),20994,6.38,1080 x 2400,90.0, Punch Hole,8.0,256.0,yes,unknown,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.1,83.0
+Infinix Hot 30,10999,6.78,1080 x 2460,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Helio G88,8.0,2.0,Android,13.0,4.55,80.0
+Oppo Find N3,114990,7.82,2268 x 2440,120.0, Punch Hole,12.0,512.0,unknown,unknown,4805.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,,,4.55,
+Xiaomi Redmi Note 12 4G (6GB RAM + 128GB),13999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Snapdragon 685,8.0,2.8,Android,13.0,4.0,80.0
+Vivo Y57,18990,6.6,1080 x 2408,, Punch Hole,8.0,128.0,yes,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.1,82.0
+Infinix Note 30 VIP,24990,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,1024.0,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,2.0,Dimensity 8050,8.0,3.0,Android,13.0,4.4,89.0
+Nokia C32,7498,6.52,720 x 1600,, Water Drop Notch,4.0,64.0,yes,256.0,5000.0,,,no,yes,yes,,yes,no,no,50.0,2.0,0.0,Unisoc SC9863A,8.0,1.6,Android,13.0,4.35,68.0
+Xiaomi 13T,56990,6.67,1220 x 2712,144.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,12.0,Dimensity 8200 Ultra,8.0,3.1,Android,13.0,4.05,86.0
+Vivo V27e,22999,6.62,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,unknown,4600.0,66.0,Fast Charging,no,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Helio G99,8.0,2.2,Android,13.0,4.55,84.0
+Realme 10 (8GB RAM + 128GB),14900,6.4,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G99,8.0,2.2,Android,12.0,4.5,79.0
+Nubia Red Magic 8 Pro Plus,60999,6.8,1116 x 2480,120.0,,12.0,256.0,unknown,unknown,5000.0,165.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.25,86.0
+Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),30999,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,no,unknown,4980.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.7,87.0
+Vivo X Flip,71990,6.74,1080 x 2520,120.0, Punch Hole,12.0,256.0,unknown,unknown,4400.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,,,4.1,89.0
+Itel MagicX Pro,1734,2.4,320 x 240,,,64.0,128.0,yes,64.0,2500.0,,,no,yes,yes,yes,yes,no,no,0.3,0.0,0.0,1 GHz Processor,,1.0,,,4.4,
+OPPO A58,18990,6.56,720 x 1612,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.45,76.0
+Poco M6 Pro 4G,12990,6.73,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5100.0,100.0,Fast Charging,no,yes,yes,yes,yes,no,yes,108.0,13.0,2.0,Helio G99 Ultra,8.0,,Android,13.0,4.55,75.0
+Realme 9i 5G,13990,6.6,1080 x 2408,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Dimensity 810 5G,8.0,2.4,Android,12.0,4.55,75.0
+Tecno Spark 9 (4GB RAM + 64GB),6299,6.6,720 x 1600,90.0, Water Drop Notch,4.0,64.0,yes,256.0,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Helio G37,8.0,2.3,Android,12.0,4.2,65.0
+Samsung Galaxy M04,7897,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.65,66.0
+Samsung Galaxy M13 (4GB RAM + 64GB),8960,6.6,1080 x 2400,, Water Drop Notch,4.0,64.0,yes,1024.0,6000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,5.0,2.0,Exynos  850,8.0,2.0,Android,12.0,4.75,71.0
+Nokia 2660 Flip,4249,,,,,,,unknown,unknown,,,,no,yes,yes,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.25,
+Letv Y1 Pro,5499,6.54,720 x 1560,, Small Notch,4.0,32.0,unknown,unknown,4000.0,,,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Tiger T310,4.0,2.0,Android,11.0,4.0,
+Samsung Galaxy M63,24999,6.71,1080 x 2400,, Punch Hole,6.0,128.0,yes,1024.0,,,,no,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Octa Core Processor,8.0,,Android,12.0,4.35,75.0
+Sony Xperia L5 5G,15990,6.2,720 x 1680,,,4.0,64.0,yes,512.0,,,,no,yes,yes,yes,yes,yes,no,13.0,5.0,2.0,Helio P35,8.0,2.3,Android,12.0,4.45,73.0
+Tecno Spark 10C,8542,6.6,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,16.0,0.0,0.0,Unisoc T606,8.0,2.0,Android,12.0,4.35,72.0
+Infinix Smart 7,6999,6.6,720 x 1612,, Water Drop Notch,4.0,64.0,yes,2048.0,6000.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Spreadtrum SC9863A1,8.0,1.6,Android,12.0,4.4,64.0
+Motorola Edge 40 Pro 5G,79990,6.67,1080 x 2400,165.0, Punch Hole,12.0,256.0,unknown,unknown,4600.0,125.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,12.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.4,
+Xiaomi Redmi 10 Power,9899,6.7,720 x 1650,, Punch Hole,8.0,128.0,yes,unknown,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,11.0,4.6,77.0
+Xiaomi Redmi 10A (4GB RAM + 64GB),8699,6.53,720 x 1600,, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Helio  G25,8.0,2.0,Android,11.0,4.5,66.0
+Honor X9 5G,16999,6.81,1080 x 2388,,,8.0,128.0,unknown,unknown,4800.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,11.0,4.05,80.0
+Realme GT Neo 3 5G (8GB RAM + 256GB),26585,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity  8100,8.0,2.85,Android,12.0,4.4,83.0
+Samsung Galaxy A53 5G (8GB RAM + 128GB),32990,6.5,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Exynos 1280,8.0,2.4,Android,12.0,4.65,89.0
+Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),94999,6.8,1440 x 3080,120.0, Punch Hole,12.0,512.0,unknown,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.2,
+Realme Narzo 60,12999,6.59,1080 x 2460,90.0, Punch Hole,4.0,64.0,yes,1024.0,4500.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Helio G96,8.0,2.05,Android,12.0,4.55,75.0
+Xiaomi Redmi Note 12 Pro Max 5G,32999,6.67,1080 x 2460,120.0, Punch Hole,6.0,128.0,yes,512.0,5200.0,210.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,0.0,0.0,Snapdragon 7 Gen1,8.0,2.4,Android,12.0,4.5,84.0
+Motorola Edge 30 5G,21999,6.5,1080 x 2400,144.0, Punch Hole,6.0,128.0,unknown,unknown,4020.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,2.0,Snapdragon 778G+,8.0,2.5,Android,12.0,4.35,83.0
+Samsung Galaxy A04s,10980,6.5,720 x 1600,90.0, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Exynos 850,8.0,2.0,Android,12.0,4.55,70.0
+Vivo X80 Pro 5G,79999,6.78,1440 x 3200,120.0, Punch Hole,12.0,256.0,no,unknown,4700.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,0.0,0.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.15,
+Poco M4 Pro 5G,14999,6.6,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,0.0,Dimensity  810 5G,8.0,2.4,Android,11.0,3.95,76.0
+Vivo V21 5G,23950,6.44,1080 x 2400,90.0, Water Drop Notch,8.0,128.0,yes,unknown,4000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity 800U,8.0,2.4,Android,11.0,4.5,85.0
+OnePlus 9R 5G,34990,6.55,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,0.0,0.0,Snapdragon 870,8.0,3.2,Android,11.0,4.45,86.0
+iQOO 7 (12GB RAM + 256GB),26499,6.62,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4400.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,13.0,2.0,Snapdragon 870,8.0,3.2,Android,11.0,4.5,85.0
+Samsung Galaxy S21,69999,6.2,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,12.0,Exynos  2100,8.0,2.9,Android,10.0,4.05,88.0
+Samsung Galaxy M31s,16990,6.5,1080 x 2400,, Punch Hole,6.0,128.0,yes,512.0,6000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,0.0,0.0,Exynos 9611,8.0,2.3,Android,10.0,4.25,82.0
+Xiaomi Redmi Note 10,12380,6.43,1080 x 2400,, Punch Hole,4.0,64.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,48.0,0.0,0.0,Snapdragon 678,8.0,2.2,Android,11.0,4.35,75.0
+Apple iPhone 9 Plus,45990,5.5,750 x 1334,, Large Notch,4.0,64.0,no,unknown,,,,no,yes,yes,yes,yes,no,no,12.0,0.0,0.0,A13 Bionic,6.0,2.65,iOS,13.0,4.45,63.0
+Samsung Galaxy S20,34999,6.2,1440 x 3200,120.0, Punch Hole,8.0,128.0,yes,1024.0,4000.0,25.0,Fast Charging,no,yes,yes,yes,yes,yes,no,64.0,12.0,12.0,Exynos  990,8.0,2.73,Android,10.0,4.2,87.0
+Xiaomi Mi Mix Alpha,199990,7.92,2088 x 2250,,,12.0,512.0,no,unknown,4050.0,40.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,20.0,12.0,Snapdragon 855+,8.0,2.96,Android,10.0,4.2,
+Namotel Achhe Din,99,,,,,,,unknown,unknown,,,,no,no,yes,,yes,no,no,0.0,0.0,0.0,"1 GB RAM, 4 GB inbuilt",,,,,4.0,
+Poco C65 (8GB RAM + 256GB),10999,6.74,720 x 1600,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio  G85,8.0,2.0,Android,13.0,4.05,71.0
+Realme C69 5G,14999,6.78,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,2048.0,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.2,79.0
+Vivo V30 Lite,39990,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,yes,unknown,4800.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.0,85.0
+itel P55 Plus,11999,6.6,720 x 1640,90.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,45.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Unisoc T606,8.0,1.6,Android,13.0,4.1,69.0
+Nothing Phone 2a (12GB RAM + 256GB),34999,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Dimensity 7200,8.0,2.8,Android,13.0,4.25,87.0
+Realme Narzo N53 (8GB RAM + 128GB),10536,6.74,720 x 1600,90.0, Punch Hole,8.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Unisoc T612,8.0,1.8,Android,13.0,4.6,75.0
+Vivo V27s,24999,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Dimensity 7050,8.0,2.6,Android,13.0,4.5,82.0
+Snexian Bold 4G,2499,2.8,240 x 320,,,2.0,16.0,unknown,unknown,3000.0,,,no,yes,yes,,,no,no,1.3,0.0,0.0,Quad Core Processor,4.0,,,,4.3,
+Nokia C32 (6GB RAM + 128 GB),8999,6.52,720 x 1600,, Water Drop Notch,6.0,128.0,yes,256.0,5000.0,,,no,yes,yes,,yes,no,no,50.0,2.0,0.0,Unisoc SC9863A,8.0,1.6,Android,13.0,4.2,72.0
+Vivo Y17s (4GB RAM + 128 GB),11499,6.56,720 x 1612,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.25,72.0
+Infinix Note 30 VIP Racing Edition,25990,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,2048.0,5000.0,68.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,2.0,Dimensity 8050,8.0,3.0,Android,13.0,4.35,88.0
+Tecno Spark 10 Pro Moon Explorer Edition,10898,6.8,1080 x 2460,90.0, Punch Hole,8.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Helio  G88,8.0,2.0,Android,13.0,4.25,81.0
+iKall S2,9489,6.8,720 x 1600,, Water Drop Notch,6.0,128.0,yes,128.0,6000.0,,,no,yes,yes,yes,yes,no,no,21.0,5.0,2.0,Quad Core,4.0,1.6,Android,13.0,4.75,68.0
+Infinix GT 10 Pro Plus,42999,6.82,1080 x 2460,144.0, Punch Hole,12.0,256.0,yes,1024.0,5000.0,260.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,13.0,2.0,Dimensity 8050,8.0,3.0,Android,13.0,4.4,
+iKall K333 Plus,3299,2.8,240 x 360,,,2.0,16.0,yes,128.0,3000.0,,,no,yes,yes,yes,,no,no,2.0,0.0,0.0,Quad Core,4.0,1.3,Android,12.0,4.2,
+Huawei P70 Pro,89990,6.8,1220 x 2700,144.0, Punch Hole,12.0,256.0,yes,unknown,5000.0,100.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,100.0,48.0,13.0,Snapdragon 8 Gen3,8.0,3.3,HarmonyOS,4.0,4.5,
+Itel Power 900,1799,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,10000 mAh Battery with 10W Fast Charging,,,,,4.1,
+Xiaomi Redmi 12C (4GB RAM + 128GB),7999,6.71,720 x 1650,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio  G85,8.0,2.0,Android,12.0,4.05,72.0
+Nokia X200,24999,6.7,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1000.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon  6 Gen 1,8.0,2.2,Android,13.0,4.7,84.0
+Xiaomi Redmi Note 12T Pro,18499,6.51,1080 x 2460,144.0, Punch Hole,8.0,128.0,yes,1024.0,5080.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Dimensity 8200 Ultra,8.0,3.1,Android,13.0,4.25,85.0
+Nokia Oxygen Ultra 5G,59990,6.9,1400 x 3200,120.0, Punch Hole,12.0,256.0,yes,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.15,
+Nokia 106 4G,2049,1.8,120 x 160,,,,,yes,32.0,1450.0,,,no,yes,yes,yes,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.2,
+iQOO Neo 9 SE,29990,6.82,1080 x 2400,144.0, Punch Hole,8.0,128.0,no,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8 Gen1,8.0,3.0,Android,14.0,4.3,84.0
+Vivo X110 Pro Plus,99990,6.82,1440 x 3200,165.0, Punch Hole,12.0,256.0,unknown,unknown,4870.0,200.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,0.0,0.0,Snapdragon 8 Gen3,8.0,,Android,14.0,4.45,89.0
+Xiaomi 15 Pro,69990,6.78,1440 x 3200,165.0, Punch Hole,12.0,256.0,no,unknown,4820.0,200.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,50.0,50.0,Snapdragon 8 Gen4,8.0,,Android,14.0,4.05,88.0
+Tecno Spark 12,14990,6.7,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Helio G99,8.0,2.2,Android,14.0,4.35,81.0
+OnePlus Nord N30 5G,24990,6.72,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.4,87.0
+Vivo Y16 (4GB RAM + 128GB),10999,6.51,720 x 1600,, Water Drop Notch,4.0,128.0,yes,unknown,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.25,69.0
+OnePlus 13R,45990,6.81,1240 x 2772,120.0, Punch Hole,8.0,256.0,unknown,unknown,5500.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,32.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.0,87.0
+Vivo V29 Lite,31990,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.45,81.0
+Tecno Spark 10,9275,6.56,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Helio G37,8.0,2.3,Android,13.0,4.3,78.0
+Motorola Rizr Rollable,159990,5.0,1080 x 2400,120.0, Punch Hole,12.0,512.0,no,unknown,3500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,13.0,4.1,86.0
+Oppo Reno 8T 4G,19999,6.43,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,100.0,2.0,2.0,Helio G99,8.0,2.2,Android,13.0,4.55,86.0
+Xiaomi Redmi Note 12 Turbo,23999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.65,82.0
+Sony Xperia Ace IV,19990,6.5,1080 x 2400,120.0,,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Snapdragon 4 Gen 1,8.0,2.0,Android,13.0,4.05,81.0
+Tecno Phantom X2 Pro,41999,6.8,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5160.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,13.0,Dimensity 9000,8.0,3.05,Android,12.0,4.7,89.0
+Xiaomi Redmi Note 12 Pro 4G,14999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,unknown,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,108.0,0.0,0.0,Snapdragon 732G,8.0,2.3,Android,11.0,4.65,73.0
+Motorola Moto X40,39999,6.7,1080 x 2400,165.0,,8.0,128.0,unknown,unknown,4600.0,125.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,12.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.65,89.0
+Infinix Note 12i (2022),8499,6.7,1080 x 2400,, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G85,8.0,2.0,Android,12.0,4.15,73.0
+Apple iPhone 14 Plus (256GB),81999,6.7,1284 x 2778,, Small Notch,6.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,16.0,4.25,82.0
+Realme C33 (4GB RAM + 64GB),7980,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,50.0,0.3,0.0,Unisoc T612,8.0,1.8,Android,12.0,4.05,67.0
+OPPO A17K,8499,6.56,720 x 1612,, Water Drop Notch,3.0,64.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio G35,8.0,2.3,Android,12.0,4.35,62.0
+Google Pixel 8 Pro,106999,6.7,1344 x 2992,120.0, Punch Hole,12.0,128.0,unknown,unknown,5050.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,48.0,"Tensor G3, Nine Cores",9.0,3.0,Android,14.0,4.7,81.0
+Realme C33,7399,6.5,720 x 1600,, Water Drop Notch,3.0,32.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,50.0,0.3,0.0,Unisoc T612,8.0,1.8,Android,12.0,4.75,64.0
+Vivo Y16,10490,6.51,720 x 1600,, Water Drop Notch,3.0,32.0,yes,unknown,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.3,65.0
+Xiaomi Redmi 11 Prime 5G,11849,6.58,1080 x 2408,90.0, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.45,74.0
+Xiaomi Redmi K50i (8GB RAM + 256GB),35999,6.6,1080 x 2460,144.0, Punch Hole,8.0,256.0,unknown,unknown,5080.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Dimensity  8100,8.0,2.85,Android,12.0,4.2,85.0
+iQOO 9T 5G,49499,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4700.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,13.0,12.0,Snapdragon  8+ Gen1,8.0,3.2,Android,12.0,4.1,85.0
+Xiaomi 13 5G,59990,6.36,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,12.0,10.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.0,89.0
+Vivo T2x 5G (2022),18990,6.58,1080 x 2408,120.0, Water Drop Notch,8.0,128.0,unknown,unknown,6000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 1300,8.0,3.0,Android,12.0,4.3,80.0
+Xiaomi 13T Pro 5G,69999,6.67,1220 x 2712,144.0, Punch Hole,12.0,256.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,12.0,Dimensity 9200 Plus,8.0,3.05,Android,13.0,4.05,89.0
+OPPO Reno 9 5G,28499,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,0.0,Snapdragon 778G,8.0,2.4,Android,13.0,4.25,83.0
+Realme Narzo 50 Pro 5G (8GB RAM + 128GB),18999,6.4,1080 x 2400,90.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,8.0,2.0,Dimensity 920 5G,8.0,2.5,Android,12.0,4.45,80.0
+Samsung Galaxy M54 5G,37999,6.7,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,8.0,2.0,Exynos 1380,8.0,2.4,Android,13.0,4.0,87.0
+Samsung Galaxy Note 30 Ultra 5G,104999,6.71,1440 x 3214,120.0, Punch Hole,12.0,256.0,yes,1024.0,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,12.0,12.0,Snapdragon 8+ Gen1,8.0,3.2,Android,12.0,4.3,
+Motorola Moto Edge 40 Lite 5G,19999,6.28,1080 x 2408,120.0, Punch Hole,8.0,128.0,yes,1024.0,4020.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,13.0,0.0,Snapdragon 695,8.0,2.2,Android,12.0,4.0,83.0
+Nokia N73 5G,46999,6.9,1400 x 3200,120.0, Punch Hole,12.0,256.0,yes,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,0.0,0.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.1,4.7,
+Vivo T1 Pro 5G (8GB RAM + 128GB),24999,6.44,1080 x 2404,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,4700.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 778G,8.0,2.4,Android,12.0,4.3,84.0
+OnePlus 10R 5G (12GB RAM + 256GB),39990,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 8100 Max,8.0,2.85,Android,12.0,4.2,85.0
+Vivo T1 44W,14499,6.44,1080 x 2408,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.7,77.0
+Realme GT 2 (12GB RAM + 256GB),28999,6.62,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon  888,8.0,2.84,Android,12.0,4.7,86.0
+OPPO F21 Pro 4G,18299,6.5,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,256.0,4500.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon  680,8.0,2.4,Android,12.0,4.35,82.0
+Samsung Galaxy M13 5G,13499,6.5,720 x 1600,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700,8.0,2.2,Android,12.0,4.4,75.0
+iQOO Z6 5G (8GB RAM + 128GB),17999,6.58,1080 x 2408,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Snapdragon  695,8.0,2.2,Android,12.0,4.05,82.0
+Xiaomi Redmi Note 11 (6GB RAM + 128GB),14499,6.43,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,0.0,0.0,Snapdragon  680,8.0,2.4,Android,11.0,4.55,80.0
+Samsung Galaxy F23 5G,17499,6.6,1080 x 2408,120.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 750G,8.0,2.2,Android,12.0,4.1,78.0
+Samsung Galaxy S22 FE 5G,51999,6.4,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,4200.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.0,12.0,8.0,Exynos 2300,8.0,,Android,12.0,4.75,79.0
+Realme C35,9999,6.6,1080 x 2408,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.3,Tiger  T616,8.0,2.0,Android,11.0,4.45,71.0
+Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),16490,6.6,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,0.0,Dimensity  810 5G,8.0,2.4,Android,11.0,4.1,81.0
+Samsung Galaxy A13,11999,6.6,1080 x 2408,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Octa Core,8.0,2.0,Android,12.0,4.3,75.0
+Realme GT 2 Fold 5G,94990,8.0,1080 x 2460,120.0,,8.0,128.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,11.0,4.15,88.0
+Realme 9 Pro Plus 5G,24999,6.4,1080 x 2400,90.0, Punch Hole,6.0,128.0,no,unknown,4500.0,60.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity  920 5G,8.0,2.5,Android,12.0,4.0,78.0
+Oppo A56 5G,17990,6.5,720 x 1600,, Water Drop Notch,6.0,128.0,yes,unknown,5000.0,,,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,11.0,4.4,73.0
+OPPO Reno7 5G,26990,6.43,1080 x 2400,90.0, Punch Hole,8.0,256.0,yes,1024.0,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Dimensity 900,8.0,2.0,Android,11.0,4.15,85.0
+OPPO Reno7 Pro 5G,35999,6.55,1080 x 2400,90.0, Punch Hole,12.0,256.0,yes,unknown,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity  1200 Max,8.0,3.0,Android,11.0,4.6,87.0
+Apple iPhone 13 (512GB),66999,6.1,1170 x 2532,, Small Notch,4.0,512.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,12.0,12.0,0.0,Bionic A15,6.0,3.22,iOS,15.0,4.15,80.0
+Sony Xperia 10 III Lite 5G,30990,6.0,1080 x 2520,,,6.0,64.0,yes,unknown,4500.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,12.0,8.0,8.0,Snapdragon  690,8.0,2.0,Android,11.0,4.2,78.0
+Xiaomi Redmi Note 8 2021,9990,6.3,1080 x 2340,, Water Drop Notch,4.0,64.0,yes,unknown,4000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,48.0,0.0,0.0,Helio G85,8.0,2.0,Android,11.0,4.1,75.0
+Poco X3 Pro (8GB RAM + 128GB),19999,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,unknown,5160.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,48.0,0.0,0.0,Snapdragon 860,8.0,2.96,Android,11.0,4.45,85.0
+Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),18820,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,512.0,5020.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,108.0,0.0,0.0,Snapdragon  732G,8.0,2.3,Android,11.0,4.5,82.0
+Xiaomi Mi 11X Pro,29900,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4520.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,5.0,Snapdragon 888,8.0,2.84,Android,11.0,4.55,85.0
+iQOO 9 5G,42990,6.56,1080 x 2376,120.0, Punch Hole,8.0,128.0,unknown,unknown,4350.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,13.0,13.0,Snapdragon  888+,8.0,2.9,Android,12.0,4.55,84.0
+Samsung Galaxy S21 Plus,48990,6.7,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4800.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,12.0,Exynos 2100,8.0,2.9,Android,10.0,4.0,88.0
+Samsung Galaxy S20 Plus,39990,6.7,1440 x 3200,120.0, Punch Hole,8.0,128.0,yes,1024.0,4500.0,25.0,Fast Charging,no,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Exynos 990,8.0,2.73,Android,10.0,4.6,88.0
+Motorola Edge Plus,49999,6.7,1080 x 2340,90.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,16.0,8.0,Snapdragon  865,8.0,2.84,Android,10.0,4.1,89.0
+Samsung Galaxy A32,21999,6.4,1080 x 2400,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,0.0,0.0,Helio G80,8.0,2.0,Android,11.0,4.3,80.0
+Xiaomi Mi A4,13999,6.53,1080 x 2400,, Water Drop Notch,4.0,64.0,yes,256.0,4050.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,48.0,0.0,0.0,Snapdragon  712,8.0,2.3,Android,10.0,4.05,76.0
+OnePlus 7 (8GB RAM + 256GB),24990,6.41,1080 x 2340,, Water Drop Notch,8.0,256.0,no,unknown,3700.0,20.0,Fast Charging,no,yes,yes,yes,yes,yes,no,48.0,5.0,0.0,Snapdragon 855,8.0,2.84,Android,9.0,4.55,81.0
+Xiaomi Qin 1,1799,2.8,240 x 320,,,8.0,16.0,unknown,unknown,1480.0,,,no,no,no,,yes,no,no,0.0,0.0,0.0,Helio MT6260A,,,Nucleus,,4.3,
+Jio JioPhone 2,2999,2.4,320 x 240,,,512.0,4.0,yes,128.0,2000.0,,,no,yes,yes,yes,yes,no,no,2.0,0.0,0.0,Dual Core,2.0,1.0,KAI OS,,3.7,
+Samsung Guru E1200,1299,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.3,
+Honor X50 Pro,32990,6.78,1220 x 2652,120.0, Punch Hole,12.0,256.0,unknown,unknown,5800.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,2.0,0.0,Snapdragon (4 nm),8.0,3.2,Android,14.0,4.7,84.0
+Infinix Smart 8 Plus,10990,6.7,720 x 1640,, Water Drop Notch,3.0,32.0,yes,128.0,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.1,63.0
+Honor Magic 6 Lite,34999,6.78,1200 x 2652,120.0, Punch Hole,8.0,256.0,unknown,unknown,5300.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,5.0,2.0,Snapdragon 6 Gen 1,8.0,2.2,Android,13.0,4.15,84.0
+Vivo S18e,24990,6.78,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Dimensity 7200,8.0,2.8,Android,14.0,4.5,83.0
+Honor X7b,19990,6.8,1080 x 2412,90.0, Punch Hole,6.0,128.0,yes,unknown,6000.0,35.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,108.0,5.0,2.0,Snapdragon 680,8.0,2.4,Android,13.0,4.7,80.0
+Tecno Phantom V2 Fold,89990,7.9,2000 x 2296,120.0,,12.0,256.0,unknown,unknown,5000.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Dimensity 9300,8.0,3.25,Android,13.0,4.65,
+Lava Agni 2S,19999,6.78,1080 x 2460,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.6,83.0
+Itel P40 (4GB RAM + 128GB),6630,6.6,720 x 1612,, Water Drop Notch,4.0,128.0,yes,512.0,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Spreadtrum  SC9863A,8.0,1.6,Android,12.0,4.35,61.0
+Motorola Moto A10G,1299,1.8,160 x 128,,,4.0,32.0,yes,64.0,800.0,,,no,no,yes,,,no,no,0.0,0.0,0.0,1.5 MHz Processor,,,,,4.1,
+Nokia 105 Classic 2023,999,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,"4 MB RAM, 4 MB inbuilt",,,,,4.2,
+Realme C51 (4GB RAM + 128 GB),8949,6.74,720 x 1600,90.0, Water Drop Notch,4.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Unisoc T612,8.0,1.8,Android,13.0,4.6,70.0
+OPPO A2x,12999,6.56,720 x 1612,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,10.0,Fast Charging,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.3,74.0
+Honor X40 GT Racing,20499,6.81,1080 x 2388,144.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,2.0,Snapdragon 888,8.0,2.84,Android,13.0,4.25,83.0
+Honor 100 5G,29990,6.7,1200 x 2664,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,0.0,Snapdragon 7 Gen3,8.0,2.63,Android,13.0,4.0,85.0
+Apple iPhone 15 Plus (512GB),112999,6.7,1290 x 2796,, Dynamic Island,6.0,512.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic  A16,6.0,3.46,iOS,17.0,4.7,86.0
+Apple iPhone 15 (512GB),102999,6.1,1179 x 2556,, Dynamic Island,6.0,512.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic  A16,6.0,3.46,iOS,17.0,4.25,85.0
+Honor V Purse,67990,7.71,2016 x 2348,120.0, Punch Hole,16.0,256.0,unknown,unknown,4500.0,35.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon 778G,8.0,2.4,,,4.4,87.0
+OnePlus Nord N20 SE (4GB RAM + 128GB),15990,6.56,720 x 1612,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G35,8.0,2.3,Android,12.0,4.35,77.0
+Tecno Camon 20 Avocado Art Edition,12999,6.67,1080 x 2400,, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.4,83.0
+Apple iPhone 17 Pro,149990,6.3,1200 x 2600,144.0, Small Notch,12.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,50.0,12.0,12.0,Bionic A18,8.0,,iOS,19.0,4.1,78.0
+Nokia 150 2023,2599,2.4,240 x 320,,,4.0,4.0,unknown,unknown,1450.0,,,no,no,no,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.75,
+Xiaomi Redmi Note 12 Pro (12GB RAM + 256GB),24490,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.55,83.0
+Lava Blaze 5G (8GB RAM + 128GB),11999,6.5,1600 x 720,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,,,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.65,77.0
+Xiaomi Redmi 13 4G,10999,6.8,1080 x 2460,120.0, Punch Hole,4.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Helio G99,8.0,2.2,Android,14.0,4.0,75.0
+Samsung Galaxy Z Fold 5 (12GB RAM + 1TB),184999,7.6,1812 x 2176,120.0, Punch Hole,12.0,1024.0,unknown,unknown,4400.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.45,
+itel S23 (4GB RAM +128 GB),6999,6.6,1600 x 720,90.0, Water Drop Notch,4.0,128.0,yes,512.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Octa Core,8.0,1.6,Android,13.0,4.25,70.0
+Honor Play 40C,9990,6.56,720 x 1612,90.0, Water Drop Notch,6.0,128.0,yes,unknown,5200.0,,,yes,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Snapdragon 480+,8.0,2.2,Android,13.0,4.6,71.0
+Infinix Note 15 Pro 5G,19990,6.8,1080 x 2400,144.0, Punch Hole,8.0,128.0,yes,2048.0,5000.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,32.0,2.0,Dimensity 6100 Plus,8.0,,Android,14.0,4.45,77.0
+Realme Narzo 60 Pro (12GB RAM + 256GB),26499,6.7,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,100.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,13.0,4.45,83.0
+Xiaomi Mix Fold 4,119990,8.2,1914 x 2160,144.0,,12.0,512.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon  8 Gen3,8.0,,Android,14.0,4.25,87.0
+Realme GT Neo 5 Pro,39999,6.74,1240 x 2772,144.0, Punch Hole,8.0,256.0,unknown,unknown,5200.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.35,85.0
+Motorola Razr 50 Ultra,89990,6.9,1080 x 2640,165.0, Punch Hole,12.0,256.0,unknown,unknown,4200.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon  8 Gen2,8.0,3.2,,,4.7,
+Tecno Phantom V Flip,49999,6.9,1080 x 2640,144.0, Punch Hole,8.0,256.0,unknown,unknown,4000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Dimensity 8050,8.0,3.0,,,4.55,88.0
+Vivo Y36 5G,20999,6.64,1080 x 2388,90.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.2,83.0
+Oppo K11x 5G,17490,6.72,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.2,80.0
+Samsung Galaxy M55,29990,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,0.0,0.0,Exynos 1380,8.0,2.4,Android,13.0,4.55,86.0
+Samsung Galaxy F25 5G,18990,6.67,1080 x 2408,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Octa Core Processor,8.0,,Android,14.0,4.75,76.0
+Motorola Moto G63 5G,16990,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,13.0,2.0,Octa Core Processor,8.0,,Android,14.0,4.15,75.0
+OPPO Find N3 Flip,94999,6.8,1080 x 2520,120.0, Punch Hole,12.0,256.0,unknown,unknown,4300.0,44.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Dimensity 9200,8.0,3.05,,,4.65,
+Tecno Spark 10 5G (8GB RAM + 128GB),13300,6.56,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.55,79.0
+iQOO 13,64990,6.8,1800 x 3440,165.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,240.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,50.0,32.0,Snapdragon 8 Gen4,8.0,,Android,14.0,4.65,82.0
+Vivo Y22 (4GB RAM + 128GB),10124,6.55,720 x 1612,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio G70,8.0,2.0,Android,12.0,4.7,73.0
+Vivo Y100A,20700,6.38,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,unknown,4500.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.3,82.0
+Tecno Pova 5 4G,11999,6.78,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,512.0,6000.0,45.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Helio G99,8.0,2.2,Android,13.0,4.5,79.0
+Vivo X100 Lite,39990,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,13.0,2.0,Dimensity 9300,8.0,3.25,Android,14.0,4.4,84.0
+iQOO Neo 8 Pro,38990,6.78,1260 x 2800,144.0, Punch Hole,16.0,256.0,unknown,unknown,4880.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,0.0,Dimensity 9200 Plus,8.0,3.35,Android,13.0,4.6,85.0
+OnePlus Ace 2V,26990,6.74,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,8.0,2.0,Dimensity  9000,8.0,3.05,Android,13.0,4.55,85.0
+Samsung Galaxy A14 4G,12999,6.6,1080 x 2408,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,5.0,2.0,Exynos  850,8.0,2.0,Android,13.0,4.35,74.0
+Honor X8a,18999,6.7,1080 x 2388,90.0, Punch Hole,6.0,128.0,unknown,unknown,,,,no,yes,yes,yes,yes,yes,no,100.0,5.0,2.0,Helio G88,8.0,2.0,Android,12.0,4.05,78.0
+Xiaomi Redmi A2 Plus,7499,6.52,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.08,0.0,Helio G36,8.0,2.2,Android,13.0,4.25,66.0
+Samsung Galaxy A23 5G (8GB RAM + 128GB),21899,6.6,1080 x 2408,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Snapdragon 695,8.0,2.2,Android,12.0,4.15,81.0
+Oppo A56s,12999,6.56,720 x 1612,, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,,,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 810,8.0,2.4,Android,12.0,4.25,75.0
+Samsung Galaxy A04e (3GB RAM + 64GB),7499,6.5,720 x 1600,, Water Drop Notch,3.0,64.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.15,66.0
+Realme 10 Pro Plus (8GB RAM + 128GB),25999,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,no,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,13.0,4.65,84.0
+Meizu 20,35990,6.55,1080 x 2400,120.0, Punch Hole,12.0,128.0,unknown,unknown,4700.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,16.0,5.0,Snapdragon 8 Gen2,8.0,3.2,Flyme,10.0,4.3,85.0
+Xiaomi Civi 3,28990,6.55,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Dimensity 8200 Ultra,8.0,3.1,Android,13.0,4.15,87.0
+iQOO Z9 Pro,25990,6.67,1080 x 2412,120.0, Water Drop Notch,8.0,128.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,13.0,2.0,Snapdragon 7+ Gen2,8.0,2.91,Android,13.0,4.05,84.0
+Honor Magic 5 Pro,103999,6.81,1312 x 2848,120.0, Punch Hole,12.0,512.0,unknown,unknown,5100.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.45,
+Redmi Note 11 Pro 2023,18999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,no,yes,108.0,0.0,0.0,Snapdragon 712,8.0,2.3,Android,11.0,4.75,81.0
+Apple iPhone 15 Ultra,149900,6.73,1290 x 2796,120.0,,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17,8.0,,iOS,17.0,4.5,79.0
+Xiaomi Redmi 13 Prime 5G,17990,6.73,1080 x 2408,120.0, Punch Hole,6.0,128.0,yes,1024.0,5100.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,2.0,0.0,Snapdragon 4 Gen2,8.0,2.2,Android,13.0,4.2,79.0
+OPPO A77s,16999,6.56,720 x 1600,90.0, Water Drop Notch,8.0,128.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,12.0,4.5,76.0
+itel MagicX Play 4G,1559,1.8,128 x 160,,,48.0,128.0,yes,64.0,1900.0,,,no,yes,yes,yes,yes,no,no,0.3,0.0,0.0,No 3G,,,Mocor,,4.2,
+Infinix Zero 20,17999,6.7,1080 x 2400,90.0, Water Drop Notch,8.0,128.0,yes,2048.0,4500.0,45.0,Fast Charging,no,yes,yes,yes,yes,yes,no,108.0,13.0,2.0,Helio G99,8.0,2.2,Android,12.0,4.5,87.0
+Vivo Y22s,14990,6.55,1612 x 720,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,12.0,4.45,77.0
+OnePlus 10T (12GB RAM + 256GB),44890,6.7,1080 x 2412,120.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,12.0,4.45,87.0
+Nokia 8210 4G,3649,,,,,,,unknown,unknown,,,,no,yes,yes,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.1,
+Nubia Z50,34999,6.67,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,50.0,0.0,Snapdragon  8 Gen2,8.0,3.2,Android,13.0,4.15,82.0
+Infinix Note 12 Pro 5G,18999,6.7,1080 x 2400,, Punch Hole,8.0,128.0,yes,2048.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,2.0,Dimensity 810 5G,8.0,2.4,Android,12.0,4.7,84.0
+Asus ROG Phone 7,74999,6.78,1080 x 2448,165.0,,16.0,512.0,unknown,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,8.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.35,
+Solana Saga,78990,6.67,1440 x 3200,120.0, Punch Hole,12.0,512.0,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,yes,50.0,12.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.3,89.0
+OPPO Reno 9 Pro Plus,45999,6.7,1080 x 2412,120.0, Punch Hole,16.0,256.0,unknown,unknown,4700.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.55,86.0
+OnePlus 10T,43997,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,unknown,unknown,4800.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,12.0,4.6,85.0
+Motorola Moto G42,11990,6.47,1080 x 2400,, Punch Hole,4.0,64.0,yes,1024.0,5000.0,20.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.5,78.0
+Oppo Find N2 5G,94990,7.1,1792 x 1920,120.0, Punch Hole,12.0,256.0,unknown,unknown,4520.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,,,4.3,
+OnePlus Nord 3T 5G,29990,6.43,1080 x 2400,90.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 1300,8.0,3.0,Android,12.0,4.2,84.0
+Samsung Galaxy A04,10999,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,,,,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.3,71.0
+iQOO Z8 Pro 5G,22999,6.44,1080 x 2412,90.0, Water Drop Notch,6.0,128.0,no,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity 7200,8.0,,Android,12.0,4.15,70.0
+OPPO F23 Pro,19990,6.72,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,256.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.25,82.0
+Samsung Galaxy F63,21999,6.7,1080 x 2400,, Punch Hole,6.0,128.0,yes,1024.0,7000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Dimensity 900,8.0,2.4,Android,12.0,4.0,85.0
+Poco M4 5G,10999,6.58,1080 x 2400,90.0, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.0,75.0
+Samsung Galaxy M33 5G (8GB RAM + 128GB),16999,6.6,1080 x 2400,120.0, Water Drop Notch,8.0,128.0,yes,1024.0,6000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Exynos  1280,8.0,2.4,Android,12.0,4.7,84.0
+Poco X4 Pro 5G (6GB RAM + 128GB),17999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,64.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,11.0,4.1,82.0
+Apple iPhone 15 Max,99990,6.68,1284 x 2778,, Punch Hole,8.0,128.0,no,unknown,4352.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,12.0,Bionic  A16,6.0,3.46,iOS,15.0,4.55,88.0
+Samsung Galaxy A23 (8GB RAM + 128GB),17859,6.6,1080 x 2408,, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Snapdragon  680,8.0,2.4,Android,12.0,4.15,82.0
+Poco F4 5G,27999,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon  870,8.0,3.2,Android,12.0,3.95,82.0
+Realme Narzo 50,9999,6.6,1080 x 2412,120.0, Punch Hole,4.0,64.0,yes,256.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Helio G96,8.0,2.0,Android,11.0,3.95,74.0
+OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),24999,6.59,1080 x 2412,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,12.0,4.1,85.0
+Nubia Z40 Pro 5G,49990,6.67,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,50.0,8.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.25,84.0
+Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),22890,6.67,2400 x 1080,120.0, Punch Hole,8.0,128.0,yes,1024.0,4500.0,120.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Dimensity  920 5G,8.0,2.5,Android,11.0,4.65,86.0
+Xiaomi Mix Fold 2 5G,106990,8.02,1914 x 2160,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon  8+ Gen1,8.0,3.2,Android,12.0,4.6,
+Samsung Galaxy A83 5G,39990,6.71,1440 x 3200,120.0, Punch Hole,6.0,128.0,yes,1024.0,4500.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,5.0,Snapdragon 870,8.0,3.2,Android,11.0,4.1,86.0
+Xiaomi Redmi Note 10S (8GB RAM + 128GB),15990,6.43,1080 x 2400,, Punch Hole,8.0,128.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,64.0,0.0,0.0,Helio G95,8.0,2.05,Android,11.0,4.4,82.0
+Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),16890,6.6,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,0.0,Dimensity  810 5G,8.0,2.4,Android,11.0,4.15,83.0
+Vivo V23e 5G,22999,6.44,1080 x 2400,, Water Drop Notch,8.0,128.0,yes,unknown,4050.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity  810 5G,8.0,2.4,Android,12.0,4.1,84.0
+Samsung Galaxy Z Fold 4,124999,7.6,1812 x 2176,120.0, Punch Hole,12.0,256.0,unknown,unknown,4400.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon  8+ Gen1,8.0,3.2,Android,12.0,4.75,
+Motorola Moto G71 5G,16478,6.4,1080 x 2400,, Punch Hole,6.0,128.0,no,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,11.0,4.65,80.0
+Samsung Galaxy Z Flip 4 5G,64999,6.7,1080 x 2640,120.0, Punch Hole,8.0,128.0,unknown,unknown,3700.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon  8+ Gen1,8.0,3.2,,,4.25,88.0
+Xiaomi Redmi Note 11T 5G,13999,6.6,1080 x 2400,90.0, Punch Hole,6.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,0.0,Dimensity  810 5G,8.0,2.4,Android,11.0,4.55,79.0
+iQOO 9 Pro 5G,49990,6.78,1440 x 3200,120.0, Punch Hole,8.0,256.0,unknown,unknown,4700.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,16.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.15,87.0
+iQOO Z5 5G (12GB RAM + 256GB),22990,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,no,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 778G,8.0,2.4,Android,11.0,4.2,84.0
+Motorola Moto G31,9999,6.47,1080 x 2400,, Punch Hole,4.0,64.0,yes,1024.0,5000.0,20.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Helio  G85,8.0,2.0,Android,11.0,4.35,75.0
+Xiaomi Mi 11T Pro 5G,30999,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,5.0,Snapdragon  888,8.0,2.84,Android,11.0,4.6,86.0
+Vivo Y12a,9999,6.51,720 x 1600,, Water Drop Notch,3.0,32.0,yes,unknown,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Snapdragon  439,8.0,2.0,Android,11.0,4.5,65.0
+OnePlus Nord CE 5G (12GB RAM + 256GB),26990,6.43,1080 x 2400,90.0, Punch Hole,12.0,256.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon 750G,8.0,2.2,Android,11.0,4.1,83.0
+OnePlus Nord N200,16990,6.49,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,13.0,2.0,2.0,Snapdragon  480,8.0,2.0,Android,11.0,4.45,75.0
+MTR Cola,1400,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,"32 MB RAM, 32 GB inbuilt",,,,,4.25,
+Realme 9 4G,16999,6.4,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,256.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.2,81.0
+Realme 9 Pro 5G,21999,6.6,1080 x 2412,120.0, Punch Hole,6.0,128.0,yes,256.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon  695,8.0,2.2,Android,12.0,4.4,80.0
+Xiaomi Redmi Note 11 Pro 5G,17990,6.67,1080 x 2400,120.0, Punch Hole,6.0,64.0,yes,unknown,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Snapdragon 695,8.0,2.2,Android,11.0,4.0,81.0
+Xiaomi Redmi Note 10S,14999,6.43,1080 x 2400,, Punch Hole,6.0,64.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,64.0,0.0,0.0,Helio G95,8.0,2.05,Android,11.0,4.4,78.0
+OPPO A74 5G,17990,6.5,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,2.0,2.0,Snapdragon  480,8.0,2.0,Android,11.0,4.0,77.0
+Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),16990,6.67,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,512.0,5020.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,64.0,0.0,0.0,Snapdragon 732G,8.0,2.3,Android,11.0,4.1,81.0
+OPPO X 2021,134999,7.4,1440 x 3200,,,8.0,256.0,unknown,unknown,4000.0,45.0,Fast Charging,no,yes,yes,yes,yes,no,no,0.0,0.0,0.0,Snapdragon 865,8.0,2.84,Android,11.0,4.55,86.0
+itel S16,5990,6.5,1600 x 720,, Water Drop Notch,1.0,16.0,yes,32.0,4000.0,,,no,yes,yes,yes,yes,no,no,8.0,2.0,0.3,Unisoc SC7731E,4.0,1.3,Android,10.0,4.55,
+OnePlus 9,35990,6.55,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,50.0,48.0,2.0,Snapdragon 888,8.0,2.84,Android,11.0,4.3,86.0
+Nokia 225 4G,3549,2.4,240 x 320,,,64.0,128.0,yes,32.0,1150.0,,,no,yes,yes,yes,,no,no,0.3,0.0,0.0,Unisoc T117,,,RTOS,30.0,4.35,
+Samsung Galaxy S20 FE,26899,6.5,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,4500.0,25.0,Fast Charging,no,yes,yes,yes,yes,yes,no,12.0,12.0,8.0,Exynos 990,8.0,2.73,Android,10.0,4.2,86.0
+Vivo V20,24990,6.44,1080 x 2400,, Water Drop Notch,8.0,128.0,yes,1024.0,4000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon  720G,8.0,2.3,Android,11.0,4.0,85.0
+Samsung Galaxy S20 Ultra 5G,99999,6.9,1440 x 3200,, Punch Hole,12.0,128.0,yes,1024.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Exynos 990,8.0,2.73,Android,10.0,4.15,
+Samsung Galaxy A52,19999,6.5,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,1024.0,4500.0,25.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,0.0,0.0,Snapdragon  720G,8.0,2.3,Android,11.0,4.05,83.0
+LG V60 ThinQ,79990,6.8,1080 x 2460,, Punch Hole,8.0,128.0,unknown,unknown,,,,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon  865,8.0,2.84,,,4.05,
+Huawei Mate 30 RS Porsche Design,214990,6.53,1176 x 2400,, Large Notch,12.0,512.0,yes,256.0,,,,yes,yes,yes,yes,yes,yes,yes,40.0,0.0,0.0,Kirin  990,8.0,2.86,Android,10.0,4.15,
+Vivo U3,9990,6.53,1080 x 2340,, Water Drop Notch,4.0,64.0,yes,256.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,16.0,8.0,2.0,Snapdragon  675,8.0,2.0,Android,9.0,4.25,72.0
+Apple iPod Touch (7th Gen),18900,,,,,,,unknown,unknown,,,,no,no,no,,yes,no,no,0.0,0.0,0.0,32 GB inbuilt,,,,,4.15,
+Apple iPhone 11 Pro Max,109900,6.5,1242 x 2688,, Large Notch,4.0,64.0,no,unknown,3500.0,18.0,Fast Charging,no,yes,yes,yes,yes,yes,no,12.0,12.0,12.0,A13 Bionic,6.0,2.65,iOS,13.0,4.3,77.0
+Samsung Galaxy A40,17990,5.9,1080 x 2340,, Water Drop Notch,4.0,64.0,yes,512.0,3100.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,16.0,5.0,0.0,Samsung Exynos 7885,8.0,2.2,Android,9.0,4.5,69.0
+OnePlus 6T,18899,6.41,1080 x 2340,, Water Drop Notch,6.0,128.0,no,unknown,,,,no,yes,yes,yes,yes,yes,no,20.0,16.0,0.0,Snapdragon 845,8.0,2.7,Android,9.0,4.2,75.0
+Vivo Y25,7499,4.5,480 x 854,,,1.0,16.0,yes,128.0,1900.0,,,no,yes,yes,,yes,no,no,5.0,0.0,0.0,Helio MT6580,4.0,1.3,Android,5.1,4.0,
+Docoss X1,888,4.0,480 x 854,,,1.0,4.0,yes,32.0,1300.0,,,no,no,yes,,yes,no,no,2.0,0.0,0.0,Quad Core,4.0,1.2,Android,4.4,3.65,
+Honor X8b,17990,6.7,1080 x 2412,90.0, Punch Hole,8.0,128.0,yes,unknown,4500.0,35.0,Fast Charging,no,yes,yes,yes,yes,no,no,108.0,5.0,2.0,Snapdragon 680,8.0,2.4,Android,13.0,4.55,84.0
+Meizu 21 Pro,50999,6.55,1080 x 2340,120.0, Punch Hole,12.0,256.0,unknown,unknown,4800.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Snapdragon 8 Gen 3,8.0,3.3,Android,13.0,4.5,89.0
+itel it5330,1462,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,"32 MB RAM, 32 MB inbuilt",,,,,4.45,
+Vivo S19e,25990,6.82,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Dimensity 7050,8.0,2.6,Android,15.0,4.2,85.0
+Motorola Moto G24 Power,18990,6.6,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6100 Plus,8.0,2.2,Android,14.0,4.6,82.0
+Asus Zenfone 11 Ultra,79990,6.1,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,4300.0,51.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,32.0,13.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.0,89.0
+Vivo X Fold 3 Pro,119990,8.2,1916 x 2160,144.0, Punch Hole,24.0,1024.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.45,
+Lava A5 23,1248,,,,,,,unknown,unknown,,,,no,no,no,,,no,no,0.0,0.0,0.0,"32 MB RAM, 24 MB inbuilt",,,,,4.65,
+Infinix Smart 8 Pro,8999,6.62,720 x 1612,90.0, Punch Hole,6.0,128.0,yes,2048.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.3,0.0,Helio P35,8.0,2.3,Android,13.0,4.0,75.0
+Infinix Note 40 Pro,23990,6.72,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,80.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,13.0,2.0,Helio G99,8.0,2.2,Android,13.0,4.35,86.0
+Nubia Red Magic 10 Pro Plus 5G,69990,6.82,1116 x 2480,144.0,,16.0,256.0,unknown,unknown,5580.0,180.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,50.0,32.0,Octa Core Processor,8.0,,Android,15.0,4.0,82.0
+Vivo X100S Pro,59990,6.78,1260 x 2800,120.0, Punch Hole,12.0,256.0,no,unknown,5500.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,50.0,50.0,Dimensity  9300,8.0,3.25,Android,13.0,4.25,
+Vivo X100s,49990,6.78,1260 x 2800,120.0, Punch Hole,8.0,256.0,no,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,0.0,0.0,Dimensity 9300,8.0,3.25,Android,13.0,4.05,
+iKall K510 New,4799,5.0,480 x 854,,,2.0,32.0,yes,256.0,3000.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Quad Core,4.0,1.3,Android,13.0,4.55,
+Vivo Y100i 5G,17990,6.64,1080 x 2388,90.0, Water Drop Notch,12.0,512.0,yes,unknown,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity  6020,8.0,2.2,Android,13.0,4.4,80.0
+Oukitel WP30 Pro 5G,32990,6.78,1080 x 2460,, Punch Hole,12.0,512.0,unknown,unknown,11000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Dimensity 8050,8.0,3.0,Android,13.0,4.2,
+Xiaomi Redmi Note 13 4G,14990,6.74,1080 x 2400,120.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,108.0,8.0,2.0,Snapdragon 685,8.0,2.8,Android,13.0,4.75,82.0
+Lava Blaze 3 5G,12999,6.56,1080 x 2400,120.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.08,0.0,Dimensity 6080,8.0,2.4,Android,14.0,4.75,75.0
+Motorola Moto G Power 5G 2024,25999,6.7,1080 x 2400,120.0, Punch Hole,6.0,256.0,yes,unknown,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Dimensity 7050,8.0,2.6,Android,13.0,4.15,82.0
+itel A60s (4GB RAM + 128 GB),6489,6.6,720 x 1612,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Unisoc  SC9863A1,8.0,,Android,12.0,4.35,
+Doogee V30 Pro,36990,6.58,1080 x 2408,, Water Drop Notch,12.0,512.0,yes,unknown,10800.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,24.0,16.0,Dimensity 7050,8.0,2.6,Android,13.0,4.25,
+Vivo Y33t 4G 2023,8499,6.56,720 x 1612,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.4,71.0
+Nubia Z60,49990,6.78,1080 x 2400,144.0, Punch Hole,8.0,256.0,unknown,unknown,6000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,50.0,50.0,Snapdragon 8 Gen3,8.0,3.3,Android,14.0,4.1,87.0
+Oppo A18 (4GB RAM + 128GB),11499,6.56,720 x 1612,, Water Drop Notch,4.0,128.0,yes,unknown,5000.0,,,no,yes,yes,yes,yes,no,no,8.0,2.0,0.0,Helio G85,8.0,2.0,Android,13.0,4.75,65.0
+Google Pixel 8 (8GB RAM + 256 GB),82999,6.2,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,4575.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,0.0,"Tensor G3, Nine Core",9.0,3.0,Android,14.0,4.1,78.0
+Tecno Spark 20C,10999,6.6,720 x 1612,90.0, Punch Hole,4.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio,8.0,2.2,Android,13.0,4.15,72.0
+Xiaomi Redmi Note 13R Pro,23999,6.67,1080 x 2400,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,2.0,0.0,Dimensity 6080,8.0,2.4,Android,13.0,4.65,84.0
+Apple iPhone 15 Pro (1TB),180990,6.1,1179 x 2556,120.0, Dynamic Island,8.0,1024.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,12.0,Bionic  A17 Pro,6.0,3.78,iOS,17.0,4.75,89.0
+Honor Play 50 Plus,13999,6.8,1080 x 2412,90.0, Punch Hole,8.0,256.0,yes,unknown,6000.0,35.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.3,81.0
+Samsung Galaxy Z Fold 5 (12GB RAM + 512GB),164999,7.6,1812 x 2176,120.0, Punch Hole,12.0,512.0,unknown,unknown,4400.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.05,
+Realme Narzo 70 5G,20999,6.56,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,2.0,0.0,Dimensity 6100 Plus,8.0,,Android,14.0,4.0,75.0
+Cellecor D9,1999,2.8,240 x 320,,,32.0,32.0,yes,32.0,2000.0,,,no,no,no,,,no,no,0.8,0.0,0.0,100 kHz Processor,,,Symbian,9.1,4.45,
+Itel Super Guru 600,1749,2.8,,,,,,unknown,unknown,1900.0,,,no,no,no,,,no,no,1.3,0.0,0.0,SC6531C,,,Nucleus,,4.2,
+itel Circle 1,1499,1.32,240 x 240,,,32.0,32.0,yes,32.0,500.0,,,no,no,no,,,no,no,0.3,0.0,0.0,1 MHz Processor,,,,,4.6,
+Fairphone 5,63990,6.46,1224 x 2700,90.0, Punch Hole,8.0,256.0,yes,unknown,4200.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,0.0,Snapdragon QCM6490,8.0,2.7,Android,13.0,4.4,
+Samsung W24,159999,7.63,1812 x 2176,120.0, Punch Hole,12.0,256.0,unknown,unknown,4500.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.3,
+Unihertz Jelly Star,11500,3.03,480 x 854,,,8.0,256.0,yes,unknown,2000.0,,,no,yes,yes,yes,yes,yes,no,48.0,0.0,0.0,Helio G99,8.0,2.2,Android,13.0,4.75,71.0
+Vivo X Fold 4,139990,8.2,1916 x 2160,144.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen3,8.0,,Android,15.0,4.15,86.0
+Nokia C32 (4GB RAM + 128 GB),7999,6.52,720 x 1600,, Water Drop Notch,4.0,128.0,yes,256.0,5000.0,,,no,yes,yes,,yes,no,no,50.0,2.0,0.0,Unisoc SC9863A,8.0,1.6,Android,13.0,4.35,69.0
+OnePlus 11 5G Marble Odyssey,64999,6.7,1440 x 3216,120.0, Punch Hole,16.0,256.0,no,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,32.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.35,
+OPPO Find N4,119900,7.56,1792 x 1920,120.0, Punch Hole,12.0,256.0,unknown,unknown,4820.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Octa Core Processor,8.0,,,,4.15,85.0
+Nokia 105 2023,1269,1.8,120 x 160,,,4.0,4.0,yes,unknown,1000.0,,,no,no,no,,,no,no,0.0,0.0,0.0,No Wifi,,,,,4.7,
+Infinix Note 14 Pro 5G,17990,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,2048.0,5000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,13.0,2.0,Dimensity 6020,8.0,2.2,Android,14.0,4.65,85.0
+Xiaomi Redmi K80 Pro,43990,6.78,1440 x 3200,144.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,150.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,2.0,Snapdragon 8 Gen3,8.0,,Android,14.0,4.1,79.0
+Tecno Spark 10 5G (8GB RAM + 256GB),14499,6.56,720 x 1612,90.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,0.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.55,80.0
+HTC U23 Pro,45990,6.7,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,unknown,4600.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon 7 Gen1,8.0,2.4,Android,13.0,4.75,
+Realme GT 4,54990,6.8,1240 x 2772,165.0, Punch Hole,8.0,256.0,no,unknown,4800.0,250.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,8.0,2.0,Snapdragon 8 Gen3,8.0,,Android,14.0,4.45,81.0
+Realme Narzo 70 Pro 5G,19990,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,13.0,2.0,Dimensity 1080,8.0,2.6,Android,13.0,4.0,83.0
+Motorola Moto G33,12990,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,44.0,Fast Charging,no,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,14.0,4.0,81.0
+Infinix Smart 7 HD,5999,6.6,720 x 1612,, Water Drop Notch,2.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.08,0.0,Spreadtrum SC9863A1,8.0,1.6,Android,12.0,4.25,61.0
+Apple iPhone 16 Plus,89900,6.74,1284 x 2800,, Small Notch,8.0,128.0,no,unknown,,,,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Bionic A17,8.0,,iOS,18.0,4.05,76.0
+Xiaomi Redmi Note 15 Pro Plus,35990,6.78,1080 x 2400,165.0, Punch Hole,8.0,256.0,no,unknown,5000.0,240.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,200.0,13.0,2.0,Dimensity 8020,8.0,,Android,15.0,4.65,79.0
+Infinix Hot 30i (4GB RAM+ 64GB),7499,6.6,720 x 1612,90.0, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Helio G37,8.0,2.3,Android,12.0,4.2,71.0
+Lava Blaze 2 4G,8998,6.5,720 x 1600,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Tiger  T616,8.0,2.0,Android,13.0,4.05,70.0
+OPPO F24 4G,17990,6.41,1080 x 2400,90.0, Punch Hole,6.0,64.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Snapdragon 685,8.0,2.8,Android,13.0,4.15,78.0
+Itel P40,6599,6.6,720 x 1612,, Water Drop Notch,4.0,64.0,yes,512.0,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Spreadtrum  SC9863A,8.0,1.6,Android,12.0,4.0,61.0
+Google Pixel 9,59990,6.26,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,0.0,Google Tensor 4,8.0,,Android,14.0,4.15,76.0
+iQOO Z7i,10990,6.51,720 x 1600,, Water Drop Notch,4.0,128.0,yes,unknown,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 6020,8.0,2.2,Android,13.0,4.05,69.0
+Tecno Phantom X3 Pro,54990,6.82,1080 x 2400,144.0, Punch Hole,12.0,256.0,unknown,unknown,5500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,32.0,Dimensity 9200 Plus,8.0,3.35,Android,13.0,4.3,89.0
+Tecno Phantom X3,49990,6.82,1080 x 2400,144.0, Punch Hole,12.0,256.0,unknown,unknown,5500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 9200,8.0,3.05,Android,13.0,4.5,86.0
+Ulefone Armor 23 Ultra,44990,6.67,1080 x 2408,120.0,,16.0,256.0,yes,1024.0,7000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,64.0,64.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.15,
+Sony Xperia 5V,88990,6.1,1080 x 2520,120.0,,8.0,128.0,yes,unknown,5000.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,12.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.4,88.0
+Vivo V27 Pro (8GB RAM + 256GB),36999,6.78,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Dimensity 8200,8.0,3.1,Android,13.0,4.2,85.0
+Vivo S17,28990,6.78,1260 x 2800,120.0, Punch Hole,8.0,256.0,unknown,unknown,4600.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,0.0,Snapdragon 778G Plus,8.0,2.5,Android,13.0,4.0,84.0
+Tecno Pop 7 Pro (3GB RAM + 64GB),6499,6.56,720 x 1612,, Water Drop Notch,3.0,64.0,yes,256.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,12.0,0.0,0.0,Helio A22,4.0,2.0,Android,12.0,4.3,63.0
+Lava Blaze 5G (6GB RAM + 128GB),10999,6.5,1600 x 720,90.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,,,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.3,75.0
+Realme GT 3,44990,6.74,1240 x 2772,144.0, Punch Hole,8.0,128.0,no,unknown,4600.0,240.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 8+ Gen1,8.0,3.2,Android,13.0,4.45,86.0
+Samsung Galaxy A16,16990,6.67,1080 x 2408,120.0, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Exynos,8.0,,Android,13.0,4.55,70.0
+Samsung Galaxy S23 Plus (8GB RAM + 512GB),94999,6.6,1080 x 2340,120.0, Punch Hole,8.0,512.0,unknown,unknown,4700.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,10.0,Snapdragon 8 Gen 2,8.0,3.36,Android,13.0,4.7,89.0
+Tecno Pop 7 Pro,6390,6.56,720 x 1612,, Water Drop Notch,2.0,64.0,yes,256.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,12.0,0.0,0.0,Helio A22,4.0,2.0,Android,12.0,4.65,61.0
+Vivo Y02 (2GB RAM + 32GB),8249,6.51,720 x 1600,, Water Drop Notch,2.0,32.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio,8.0,,Android,12.0,4.5,
+Infinix Hot 20 (6GB RAM+ 128GB),12999,6.6,1080 x 2408,120.0, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Dimensity 810,8.0,2.4,Android,12.0,4.45,78.0
+iQOO 11 (16GB RAM + 256GB),54990,6.78,1440 x 3200,144.0, Punch Hole,16.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,8.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.15,89.0
+Blackview BV5200 Pro,8990,6.1,720 x 1560,, Punch Hole,4.0,64.0,yes,unknown,5180.0,10.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,13.0,0.0,0.0,Helio G35,8.0,2.3,Android,12.0,4.05,67.0
+Samsung Galaxy A04e (4GB RAM + 128GB),8624,6.5,720 x 1600,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.3,69.0
+Samsung Galaxy M04 (4GB RAM + 128GB),8650,6.5,720 x 1600,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Helio P35,8.0,2.3,Android,12.0,4.3,68.0
+Vivo Y35 5G,13999,6.51,720 x 1600,, Water Drop Notch,4.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,13.0,2.0,0.0,Dimensity 700 5G,8.0,2.2,Android,13.0,4.45,70.0
+OnePlus Ace 2,34999,6.74,1240 x 2772,120.0, Punch Hole,12.0,256.0,unknown,unknown,5000.0,100.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon  8+ Gen1,8.0,3.2,Android,13.0,4.5,87.0
+Sony Xperia 10 V,39999,6.1,1080 x 2520,,,6.0,128.0,yes,unknown,5000.0,21.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,8.0,8.0,Snapdragon 695,8.0,2.2,Android,12.0,4.05,84.0
+Google Pixel Fold,146990,7.6,1840 x 2208,120.0, Punch Hole,12.0,256.0,unknown,unknown,4821.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Google  Tensor G2,8.0,2.85,Android,13.0,4.55,
+Vivo Y02,8399,6.51,720 x 1600,, Water Drop Notch,3.0,32.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Helio,8.0,,Android,12.0,4.35,
+OPPO A1 Pro 5G,20990,6.7,1080 x 2412,120.0, Punch Hole,8.0,128.0,yes,1024.0,4800.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.25,84.0
+iQOO Z7x,15990,6.64,1080 x 2388,, Punch Hole,8.0,128.0,yes,unknown,6000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,2.0,0.0,Snapdragon 695,8.0,2.2,Android,13.0,4.0,81.0
+Oppo A98,24990,6.72,1080 x 2400,120.0, Water Drop Notch,8.0,256.0,yes,1024.0,5000.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,64.0,2.0,2.0,Snapdragon 695,8.0,2.2,Android,13.0,4.45,86.0
+Xiaomi Redmi Note 12 Explorer,24999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,512.0,4300.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,200.0,8.0,2.0,Dimensity 1080,8.0,2.6,Android,12.0,4.1,89.0
+OnePlus Nord 5,34999,6.57,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,12.0,5.0,Dimensity 9200 Plus,8.0,3.35,Android,13.0,4.75,86.0
+Vivo S16,29990,6.78,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon 870,8.0,3.2,Android,13.0,4.1,85.0
+Realme GT Neo 3T (8GB RAM + 256GB),29990,6.62,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Snapdragon 870,8.0,3.2,Android,12.0,4.35,82.0
+Realme C30s (4GB RAM + 64GB),7999,6.5,720 x 1600,, Water Drop Notch,4.0,64.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Unisoc SC9863A,8.0,1.6,Android,12.0,4.0,62.0
+OPPO F21s Pro,24298,6.43,1080 x 2400,, Punch Hole,8.0,128.0,yes,512.0,4500.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,2.0,2.0,Snapdragon  695,8.0,2.2,Android,12.0,4.0,82.0
+Tecno Camon 19 Pro Mondrian Edition,15390,6.8,1080 x 2460,120.0, Punch Hole,8.0,128.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,64.0,50.0,2.0,Helio G96,8.0,2.05,Android,12.0,4.7,84.0
+Realme C30s,6599,6.5,720 x 1600,, Water Drop Notch,2.0,32.0,yes,1024.0,5000.0,10.0,Fast Charging,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Unisoc SC9863A,8.0,1.6,Android,12.0,4.55,
+Samsung Galaxy A53 (8GB RAM + 256GB),34999,6.5,1080 x 2400,120.0, Punch Hole,8.0,256.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,0.0,0.0,Exynos 1280,8.0,2.4,Android,12.0,4.2,89.0
+Honor Magic V2,102999,7.92,2156 x 2344,120.0, Punch Hole,16.0,256.0,unknown,unknown,5000.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,,,4.5,
+itel Magic X,1549,,,,,,,unknown,unknown,,,,no,yes,yes,yes,yes,no,no,0.0,0.0,0.0,No 3G,,,,,4.0,
+Realme 9i 5G (6GB RAM + 128GB),16290,6.6,1080 x 2408,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Dimensity 810 5G,8.0,2.4,Android,12.0,4.65,78.0
+Vivo V25 Pro (12GB RAM + 256GB),39999,6.56,1080 x 2376,120.0, Punch Hole,12.0,256.0,unknown,unknown,4830.0,66.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity 1300,8.0,3.0,Android,12.0,4.35,86.0
+Honor X8 5G,14990,6.5,720 x 1600,, Water Drop Notch,6.0,128.0,yes,1024.0,,,,yes,yes,yes,yes,yes,no,no,48.0,2.0,0.0,Snapdragon  480+,8.0,2.2,Android,11.0,4.0,75.0
+Oppo Reno 8 Pro (8GB RAM + 256GB),42990,6.7,1080 x 2412,120.0, Punch Hole,8.0,256.0,unknown,unknown,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Dimensity 8100-Max,8.0,2.85,Android,12.0,4.25,85.0
+Xiaomi 13 Lite,42990,6.55,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.0,8.0,2.0,Snapdragon 7 Gen1,8.0,2.4,Android,12.0,4.5,86.0
+Asus ZenFone 9,63990,5.9,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4300.0,30.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,12.0,0.0,Snapdragon 8+ Gen1,8.0,3.2,Android,12.0,4.75,86.0
+Nubia Red Magic 7S Pro,60990,6.8,1080 x 2400,120.0,,12.0,256.0,unknown,unknown,5000.0,135.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon  8+ Gen1,8.0,3.2,Android,12.0,4.25,86.0
+OPPO Reno 8 Z,26990,6.43,1080 x 2400,, Punch Hole,8.0,256.0,yes,1024.0,4500.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Snapdragon  695,8.0,2.2,Android,12.0,4.25,86.0
+Poco F4 5G (8GB RAM + 128GB),29999,6.67,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Snapdragon  870,8.0,3.2,Android,12.0,4.6,85.0
+Realme V20 5G,11499,6.5,720 x 1600,, Punch Hole,4.0,128.0,yes,unknown,5000.0,,,yes,yes,yes,yes,yes,no,no,13.0,0.3,0.0,Dimensity 700 5G,8.0,2.2,Android,12.0,4.7,68.0
+Samsung Galaxy M13,11960,6.6,1080 x 2400,, Water Drop Notch,6.0,128.0,yes,1024.0,6000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,5.0,2.0,Exynos  850,8.0,2.0,Android,12.0,4.5,75.0
+Motorola Moto E32s,6990,6.5,720 x 1600,90.0, Punch Hole,3.0,32.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,16.0,2.0,2.0,Helio G37,8.0,1.8,Android,12.0,4.25,65.0
+Motorola Moto G23,19999,6.5,720 x 1600,90.0, Punch Hole,4.0,128.0,yes,512.0,5000.0,30.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,5.0,2.0,Helio  G85,8.0,2.0,Android,13.0,4.4,77.0
+Vivo Y77 5G,17990,6.64,1080 x 2388,120.0, Punch Hole,6.0,128.0,yes,1024.0,4500.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Dimensity  930,8.0,2.2,Android,12.0,4.4,76.0
+Vivo X90 Pro Plus 5G,94999,6.78,1440 x 3200,120.0, Punch Hole,12.0,256.0,unknown,unknown,4700.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,50.3,0.0,0.0,Snapdragon 8 Gen2,8.0,3.2,Android,13.0,4.7,
+Realme GT 3 Pro 5G,49990,6.7,1440 x 3216,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,3.0,Snapdragon 8 Gen1 Plus,8.0,,Android,12.0,4.4,80.0
+Vivo Y75 4G,19990,6.44,1080 x 2400,, Water Drop Notch,8.0,128.0,yes,1024.0,4050.0,44.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,8.0,2.0,Helio G96,8.0,2.05,Android,12.0,4.5,82.0
+Xiaomi Redmi 10C (4GB RAM + 128GB),14990,6.7,720 x 1600,, Water Drop Notch,4.0,128.0,yes,512.0,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,11.0,4.6,73.0
+Oppo A77 5G,21990,6.56,720 x 1600,90.0, Water Drop Notch,6.0,128.0,yes,unknown,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,2.0,0.0,Snapdragon  810,8.0,2.4,Android,12.0,4.55,76.0
+OPPO F23 Pro Plus 5G,27990,6.43,1080 x 2460,90.0, Punch Hole,8.0,128.0,yes,256.0,4500.0,65.0,Fast Charging,yes,yes,yes,yes,yes,no,no,50.0,0.0,0.0,Snapdragon 7 Gen1,8.0,2.4,Android,12.0,4.7,83.0
+ZTE Axon 40 Ultra 5G,61990,6.8,1116 x 2480,120.0,,8.0,128.0,unknown,unknown,5000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,64.0,64.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.65,89.0
+Motorola Moto G52 (6GB RAM + 128GB),13999,6.6,2460 x 1080,90.0, Punch Hole,6.0,128.0,yes,unknown,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,yes,no,50.0,8.0,2.0,Snapdragon 680,8.0,2.4,Android,12.0,4.3,79.0
+OPPO K10 5G,25999,6.56,720 x 1612,90.0, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,2.0,0.0,Dimensity  810 5G,8.0,2.4,Android,12.0,4.35,79.0
+Xiaomi Redmi Note 12S,19999,6.43,1080 x 2400,90.0, Punch Hole,6.0,64.0,yes,512.0,5000.0,67.0,Fast Charging,no,yes,yes,yes,yes,yes,yes,108.0,8.0,2.0,Helio G96,8.0,2.05,Android,13.0,4.1,78.0
+Vivo X Fold 5G (12GB RAM + 512GB),118990,8.03,1916 x 2160,120.0,,12.0,512.0,unknown,unknown,4600.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.55,
+Samsung Galaxy A33 5G (8GB RAM + 128GB),24790,6.4,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,1024.0,5000.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,0.0,0.0,Exynos  1280,8.0,2.4,Android,12.0,4.1,85.0
+Realme Narzo 50 (6GB RAM + 128GB),12890,6.6,1080 x 2412,120.0, Punch Hole,6.0,128.0,yes,256.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Helio G96,8.0,2.0,Android,11.0,4.65,77.0
+OnePlus 10 Pro 5G (12GB RAM + 512GB),74999,6.7,1440 x 3216,120.0, Punch Hole,12.0,512.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,48.0,8.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.1,4.45,
+Motorola Frontier 22 5G,59990,6.7,1080 x 2400,144.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,125.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,200.0,50.0,12.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.05,
+Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),99990,6.8,1440 x 3080,120.0, Punch Hole,8.0,128.0,unknown,unknown,5000.0,45.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,108.0,0.0,0.0,Snapdragon  8 Gen1,8.0,3.0,Android,12.0,4.05,
+OPPO Reno7 Z 5G,17999,6.43,1080 x 2400,, Punch Hole,8.0,128.0,yes,unknown,4500.0,33.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,2.0,2.0,Snapdragon  695,8.0,2.2,Android,11.0,4.55,84.0
+Xiaomi Redmi Note 11S (8GB RAM + 128GB),14990,6.43,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,108.0,0.0,0.0,Helio  G96,8.0,2.05,Android,11.0,4.2,84.0
+Xiaomi Redmi 11 Prime,10999,6.58,1080 x 2400,90.0, Water Drop Notch,4.0,64.0,yes,512.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,2.0,2.0,Helio G99,8.0,2.2,Android,12.0,4.1,74.0
+Xiaomi 11T Pro 5G (8GB RAM + 256GB),33999,6.67,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,120.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,108.0,8.0,5.0,Snapdragon  888,8.0,2.84,Android,11.0,4.15,87.0
+Asus ROG Phone 6 Pro 5G,89999,6.78,1080 x 2448,165.0,,18.0,512.0,no,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,5.0,Snapdragon 8+ Gen1,8.0,3.2,Android,12.0,4.75,88.0
+Vivo V23 Pro 5G (12GB RAM + 256GB),32990,6.56,1080 x 2376,90.0, Small Notch,12.0,256.0,no,unknown,4300.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,108.0,8.0,2.0,Dimensity 1200,8.0,3.0,Android,12.0,4.65,87.0
+Vivo V23 5G (12GB RAM + 256GB),32999,6.44,1080 x 2400,90.0, Small Notch,12.0,256.0,yes,unknown,4200.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,8.0,2.0,Dimensity  920 5G,8.0,2.5,Android,12.0,4.25,86.0
+Oppo Find X5 Pro 5G,79990,6.7,1440 x 3216,120.0, Punch Hole,8.0,256.0,unknown,unknown,5000.0,80.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,50.0,13.0,Snapdragon 8 Gen1,8.0,3.0,Android,12.0,4.15,
+Xiaomi Redmi Note 11S,12490,6.43,1080 x 2400,90.0, Punch Hole,6.0,64.0,yes,512.0,5000.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,108.0,0.0,0.0,Helio  G96,8.0,2.05,Android,11.0,4.05,80.0
+Samsung Galaxy A03 Core,6999,6.5,720 x 1600,, Water Drop Notch,2.0,32.0,yes,1024.0,5000.0,,,no,yes,yes,yes,yes,no,no,8.0,0.0,0.0,Unisoc  SC9836A,4.0,1.6,Android,10.0,4.05,
+iQOO Neo 6 SE 5G,22990,6.62,1080 x 2400,120.0, Punch Hole,8.0,128.0,no,unknown,4700.0,80.0,Fast Charging,yes,yes,yes,yes,yes,no,no,64.0,12.0,2.0,Snapdragon 870,8.0,3.2,Android,12.0,4.1,83.0
+Samsung Galaxy A03,7888,6.5,720 x 1560,, Water Drop Notch,3.0,32.0,yes,1024.0,5000.0,15.0,Fast Charging,no,yes,yes,yes,yes,no,no,48.0,2.0,0.0,Unisoc  T606,8.0,2.0,Android,11.0,4.45,67.0
+Vivo Y55 5G,20990,6.58,1080 x 2408,, Water Drop Notch,4.0,128.0,yes,unknown,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,2.0,2.0,Dimensity 700 5G,8.0,2.2,Android,11.0,4.15,77.0
+Poco M4 Pro 5G (6GB RAM + 128GB),16490,6.6,1080 x 2400,90.0, Punch Hole,6.0,128.0,yes,1024.0,5000.0,33.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,50.0,8.0,0.0,Dimensity  810 5G,8.0,2.4,Android,11.0,4.35,81.0
+Samsung W22 5G,197999,7.6,1768 x 2208,120.0, Punch Hole,16.0,512.0,unknown,unknown,4400.0,25.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,0.0,0.0,0.0,Snapdragon 888,8.0,2.84,Android,11.0,4.3,
+OPPO A55 4G,11999,6.51,720 x 1600,, Punch Hole,4.0,64.0,yes,256.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Helio G35,8.0,2.3,Android,11.0,4.2,73.0
+OPPO A16K,9990,6.52,720 x 1600,, Water Drop Notch,3.0,32.0,yes,256.0,4230.0,,,no,yes,yes,yes,yes,no,no,13.0,0.0,0.0,Helio G35,8.0,2.3,Android,11.0,4.05,63.0
+Vivo Y33s,13960,6.58,1080 x 2408,, Water Drop Notch,8.0,128.0,yes,1024.0,5000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,2.0,Helio G80,8.0,2.0,Android,11.0,4.3,80.0
+Asus ROG Phone 5s Pro 5G,79999,6.78,1080 x 2448,144.0,,18.0,512.0,unknown,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,13.0,5.0,Snapdragon  888+,8.0,2.9,Android,11.0,4.45,89.0
+Xiaomi Redmi 10 (6GB RAM + 128GB),10490,6.7,720 x 1600,, Water Drop Notch,6.0,128.0,yes,512.0,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,11.0,4.55,75.0
+Xiaomi Redmi 10 Prime,11799,6.5,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,512.0,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,yes,50.0,0.0,0.0,Helio G88,8.0,2.0,Android,11.0,4.5,74.0
+Samsung Galaxy M32 5G,17999,6.5,720 x 1600,, Water Drop Notch,6.0,128.0,yes,1024.0,5000.0,15.0,Fast Charging,yes,yes,yes,yes,yes,no,no,48.0,0.0,0.0,Dimensity 720,8.0,2.0,Android,11.0,4.5,78.0
+Nokia 6310 2021,3199,2.8,160 x 240,,,8.0,16.0,yes,32.0,1150.0,,,no,no,no,,yes,no,no,0.3,0.0,0.0,Unisoc  6531F,,,,,4.25,
+Nokia X60 Pro 5G,49990,6.51,1080 x 2408,144.0, Punch Hole,8.0,128.0,yes,unknown,6000.0,44.0,Fast Charging,yes,yes,yes,yes,yes,no,no,200.0,0.0,0.0,Snapdragon 870,8.0,3.2,Android,11.0,4.0,
+Xiaomi Redmi Note 10T 5G,13690,6.5,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,2.0,2.0,Dimensity 700,8.0,2.2,Android,11.0,4.55,75.0
+Xiaomi Mi 11 Lite (8GB RAM + 128GB),15999,6.55,1080 x 2400,90.0, Punch Hole,8.0,128.0,yes,512.0,4250.0,33.0,Fast Charging,no,yes,yes,yes,yes,no,yes,64.0,8.0,5.0,Snapdragon 732G,8.0,2.3,Android,11.0,4.6,82.0
+Xiaomi Redmi 10,8949,6.7,720 x 1600,, Water Drop Notch,4.0,64.0,yes,512.0,6000.0,18.0,Fast Charging,no,yes,yes,yes,yes,no,no,50.0,2.0,0.0,Snapdragon 680,8.0,2.4,Android,11.0,4.6,71.0
+OPPO A16,12599,6.52,720 x 1600,, Water Drop Notch,4.0,64.0,yes,unknown,5000.0,,,no,yes,yes,yes,yes,no,no,13.0,2.0,2.0,Helio G35,8.0,2.3,Android,11.0,4.45,69.0
+POCO M3 Pro 5G,12390,6.5,1080 x 2400,90.0, Punch Hole,4.0,64.0,yes,1024.0,5000.0,18.0,Fast Charging,yes,yes,yes,yes,yes,no,yes,48.0,2.0,2.0,Dimensity 700 5G,8.0,2.2,Android,11.0,4.5,75.0
+Asus ROG Phone 6,71999,6.78,1080 x 2448,165.0,,12.0,256.0,no,unknown,6000.0,65.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,50.0,13.0,5.0,Snapdragon 8+ Gen1,8.0,3.2,Android,12.0,4.7,86.0
+iQOO 7 (8GB RAM + 256GB),25499,6.62,1080 x 2400,120.0, Punch Hole,8.0,256.0,unknown,unknown,4400.0,66.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,48.0,13.0,2.0,Snapdragon 870,8.0,3.2,Android,11.0,4.05,84.0
+Realme X7 Max,23999,6.43,1080 x 2400,120.0, Punch Hole,8.0,128.0,unknown,unknown,4500.0,50.0,Fast Charging,yes,yes,yes,yes,yes,yes,no,64.0,8.0,2.0,Dimensity 1200,8.0,3.0,Android,11.0,4.55,84.0
+Xiaomi Mi Mix Fold,109990,8.01,1860 x 2480,90.0,,12.0,256.0,unknown,unknown,5020.0,67.0,Fast Charging,yes,yes,yes,yes,yes,yes,yes,0.0,0.0,0.0,Snapdragon  888,8.0,2.84,Android,10.0,4.55,
